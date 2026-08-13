@@ -1,0 +1,372 @@
+{
+  "items": [
+    {
+      "description": "The following are general purpose platforms, with functionality including: loading data, preprocessing, visualization, standard analysis, and making figures.",
+      "items": [],
+      "title": "General Purpose Tools"
+    },
+    {
+      "description": "is a general purpose tool for processing, analyzing, and visualizing M/EEG data.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "MNE"
+    },
+    {
+      "description": "Neural Ensemble is an initiative for open-source software in neuroscience and includes a set of tools for managing and analyzing electrophysiology data.\nis a tool for representing electrophysiology data, and reading neurophysiological file formats.\nHome Page - Github\nis a tool for analyzing electrophysiological data.\nHome Page - Github",
+      "items": [],
+      "title": "Neural Ensemble Tools"
+    },
+    {
+      "description": "is a general purpose tool for processing, analyzing, and visualizing EEG data, including specific tools focused on sleep scoring and analysis.\nHome Page - Github",
+      "items": [],
+      "title": "Wonambi"
+    },
+    {
+      "description": "is a tool for neurophysiological signal processing.\nHome Page - Github",
+      "items": [],
+      "title": "NeuroKit2"
+    },
+    {
+      "description": "is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "FieldTrip"
+    },
+    {
+      "description": "is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "BrainStorm"
+    },
+    {
+      "description": "is a general purpose tool for processing, analyzing, and visualizing EEG data.\nHome Page - Paper",
+      "items": [],
+      "title": "EEGLab"
+    },
+    {
+      "description": "is a general purpose toolbox for neuroimaging, including support for processing M/EEG data.\nHome Page",
+      "items": [],
+      "title": "SPM"
+    },
+    {
+      "description": "is a general purpose tool for processing, analyzing, and visualizing MEG data.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "NutMEG"
+    },
+    {
+      "description": "is a general purpose tool for processing and analyzing EEG data, with a focus on signal-data mining.\nCode - Paper",
+      "items": [],
+      "title": "Signaleeg"
+    },
+    {
+      "description": "The tool is collection of tools for online and offline analyses for brain-computer interface experiments.\nGithub - Paper",
+      "items": [],
+      "title": "BBCI - Berlin brain-computer interface"
+    },
+    {
+      "description": "is a general purpose tool for processing, analyzing, and visualizing EEG data.\nHome Page - Github",
+      "items": [],
+      "title": "EEGUtils"
+    },
+    {
+      "description": "is a package for working with EEG data.\nHome Page - Github",
+      "items": [],
+      "title": "EEGuana"
+    },
+    {
+      "description": "R Analysis and Visualization of iEEG (RAVE) is a tool for analyzing intracranial EEG data.\nHome Page - Paper",
+      "items": [],
+      "title": "RAVE"
+    },
+    {
+      "description": "is library for processing EEG data.\nHome Page - Github",
+      "items": [],
+      "title": "EEG.jl"
+    },
+    {
+      "description": "is an EEG analysis toolbox.\nHome Page - Paper",
+      "items": [],
+      "title": "CarTool"
+    },
+    {
+      "description": "Luna is a software toolkit for analyzing sleep data, including implementations in C/C++, R, and Python.\nHomePage",
+      "items": [],
+      "title": "Luna"
+    },
+    {
+      "description": "The following are standalone tools, independent of general software platforms, for specific purposes.",
+      "items": [],
+      "title": "Standalone Tools"
+    },
+    {
+      "description": "is a package for calculating a broad range of measures on neural time series, including a range of time-domain measures such as waveform shape analyses.\nHomepage - Github - Paper",
+      "items": [],
+      "title": "NeuroDSP"
+    },
+    {
+      "description": "(formerly called ) is a package for parameterizing neural power spectra.\nHomepage - Github - Paper",
+      "items": [],
+      "title": "SpecParam (formerly 'fooof')"
+    },
+    {
+      "description": "is a tool for cycle-by-cycle analyses of neural oscillations.\nHomepage - Github - Paper",
+      "items": [],
+      "title": "ByCycle"
+    },
+    {
+      "description": "Pynapple (Python Neural Analysis Package) is a lightweight, general purpose library for analyzing neurophysiological data, that includes some utilities for working with field data.\nHomepage - Github",
+      "items": [],
+      "title": "pynapple"
+    },
+    {
+      "description": "A Python implementation of the 'irregular resampling auto-spectral analysis'. Note that this is a re-implementation of the algorithm described in the paper.\nGithub - Paper",
+      "items": [],
+      "title": "IRASA"
+    },
+    {
+      "description": "is package for computing information-theoretic measures on human and electrophysiological data.\nHomepage - Github",
+      "items": [],
+      "title": "Frites - Framework for Information Theoretic analysis of Electrophysiological data and Statistics"
+    },
+    {
+      "description": "is a package for computing entropy and complexity measures on EEG data.\nHomepage - Github",
+      "items": [],
+      "title": "Antropy"
+    },
+    {
+      "description": "is package for time series analysis in Python, focused on analyzing electrophysiological data.\nHomepage - Github",
+      "items": [],
+      "title": "PTSA - Python Time Series Analysis"
+    },
+    {
+      "description": "is a toolbox for signal processing and spectral analyses.\nGithub - Paper",
+      "items": [],
+      "title": "GhostiPy - General Hub Of Spectral Techniques In Python"
+    },
+    {
+      "description": "is a package for functional connectivity and coherence related measures.\nHome Page - Github",
+      "items": [],
+      "title": "Spectral Connectivity"
+    },
+    {
+      "description": "The is a package for brain connectivity measures.\nGithub",
+      "items": [],
+      "title": "Brain Connectivity Toolbox for Python"
+    },
+    {
+      "description": "is a tool for calculating phase-amplitude coupling measures, using tensors and parallel computing.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "Tensor PAC"
+    },
+    {
+      "description": "is a package for calculating phase-amplitude coupling measures in neural time series.\nHome Page - Github",
+      "items": [],
+      "title": "PACTools"
+    },
+    {
+      "description": "includes some implementations of information theoretic and complexity related measures for neural time series.\nGithub - Paper",
+      "items": [],
+      "title": "PyEEG"
+    },
+    {
+      "description": "is a collection of tools for analyzing ECoG data.\nGithub",
+      "items": [],
+      "title": "ECoGTools"
+    },
+    {
+      "description": "is a tool for statistical analysis of M/EEG data.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "EELBrain"
+    },
+    {
+      "description": "is a package for analyzing polysomnograghy recordings.\nHome Page - Github",
+      "items": [],
+      "title": "YASA - Yet another spindle algorithm"
+    },
+    {
+      "description": "The tool implements kernel Current Source Density.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "kCSD - kernel Current Source Density"
+    },
+    {
+      "description": "The toolbox implements empirical mode decomposition and Hilbert-Huang spectral analyses.\nHome Page - Code - Paper",
+      "items": [],
+      "title": "EMD - Empirical Mode Decomposition"
+    },
+    {
+      "description": "Xenon is an interactive platform for analyzing LFP activity from multi-electrode array (MEA) recordings.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "Xenon LFP Analysis Platform"
+    },
+    {
+      "description": "is a tool for oscillation detection and measurement.\nGithub - Paper",
+      "items": [],
+      "title": "eBOSC - extended Better OSCillation detector"
+    },
+    {
+      "description": "is a tool for designing and running non-invasive brain stimulation experiments.\nHomepage - Github - Paper",
+      "items": [],
+      "title": "BEST - Brain Electrophysiological recording & STimulation"
+    },
+    {
+      "description": "is a tool for estimating the peak individual alpha frequency.\nGithub - Paper",
+      "items": [],
+      "title": "restingIAF"
+    },
+    {
+      "description": "Phase Opposition is a collection of functions for calculating phase opposition measures.\nHome Page - Paper",
+      "items": [],
+      "title": "Phase Opposition Code"
+    },
+    {
+      "description": "is a tool for encoding and decoding model analysis on M/EEG data.\nGithub - Paper",
+      "items": [],
+      "title": "ADAM - Amsterdam Decoding and Modeling Toolbox"
+    },
+    {
+      "description": "is tool for estimating connectivity measures between M/EEG signals.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "HERMES"
+    },
+    {
+      "description": "is a package for simulating synthetic data that mimic event-related EEG activity.\nGithub - Paper",
+      "items": [],
+      "title": "SEREEGA - Simulating Event-Related EEG Activity"
+    },
+    {
+      "description": "is a tool for deconvolving overlapping EEG signals and for non-linear modeling.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "UNFOLD"
+    },
+    {
+      "description": "is a tool for statistical analysis of already preprocessed M/EEG data, focused mainly around the 'threshold-free cluster enhancement' method.\nGithub - Paper",
+      "items": [],
+      "title": "ept-TFCE"
+    },
+    {
+      "description": "is a tool for calculating reliability estimates for ERP data.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "ERA - ERP Reliability Analysis"
+    },
+    {
+      "description": "is a tool for time-frequency and time-scale analyses.\nGithub",
+      "items": [],
+      "title": "SynchSqueezing"
+    },
+    {
+      "description": "is a standardized toolbox for preprocessing EEG datasets.\nGithub - Paper",
+      "items": [],
+      "title": "AutoMagic"
+    },
+    {
+      "description": "The toolbox is designed to run Granger-causal analysis on multivariate time-series data.\nHome Page - Code - Paper",
+      "items": [],
+      "title": "MVGC - Multivariate Granger Causality Toolbox"
+    },
+    {
+      "description": "is a package for solving forward problems for EEG & MEG data.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "OpenMEEG"
+    },
+    {
+      "description": "is a package for fast calculations of Continuous Wavelet Transforms.\nGithub - Paper",
+      "items": [],
+      "title": "fast Continuous Wavelet Transform"
+    },
+    {
+      "description": "The following are plugins, designed primary for use with one of the aforementioned general purpose tools.",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "AutoReject"
+    },
+    {
+      "description": "is a tool for creating BIDS compatible datasets with MNE.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "MNE-BIDS"
+    },
+    {
+      "description": "is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.\nHomepage - Github",
+      "items": [],
+      "title": "PyPREP"
+    },
+    {
+      "description": "The pipeline is a standardized pre-processing tool for EEG data, using EEGLab.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "PREP Pipeline"
+    },
+    {
+      "description": "(Reduction of Electroencephalographic Artifacts) provides a fully automated method to clean EEG data.\nGithub - Paper1 - Paper2",
+      "items": [],
+      "title": "RELAX"
+    },
+    {
+      "description": "is an automatic artifact identification and removal tool, using EEGLab.\nHome Page - Paper",
+      "items": [],
+      "title": "ADJUST"
+    },
+    {
+      "description": "is a tool for event-related potential (ERP) analysis of EEG data, with EEGLab.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "ERPlab"
+    },
+    {
+      "description": "is a tool for Linear Modeling of EEG data, with EEGLab.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "LIMO - Linear Modeling"
+    },
+    {
+      "description": "is a tool for causality and information flow measures, with EEGLab.\nHome Page",
+      "items": [],
+      "title": "SIFT - Source Information Flow Toolbox"
+    },
+    {
+      "description": "is a tool for probabilistic multi-subject EEG independent component analysis, with EEGLab.\nHome Page",
+      "items": [],
+      "title": "MPT - Measure Projection Toolbox"
+    },
+    {
+      "description": "The following are broader purpose neuro-tools that could be used with electrophysiology data.",
+      "items": [],
+      "title": "Neuro Tools"
+    },
+    {
+      "description": "is a tool for read/write access to common neuroimaging file formats.\nHome Page - Github",
+      "items": [],
+      "title": "nibabel"
+    },
+    {
+      "description": "is a tool for applying machine learning to neuroimaging data.\nHome Page - Github",
+      "items": [],
+      "title": "nilearn"
+    },
+    {
+      "description": "is a tool for brain data visualization.\nHomepage - Github",
+      "items": [],
+      "title": "Visbrain"
+    },
+    {
+      "description": "is a tool for visualizing cortical surfaces.\nHomepage - Github",
+      "items": [],
+      "title": "PyCortex"
+    },
+    {
+      "description": "is a tool for analyzing gradients in neuroimaging datasets.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "BrainSpace"
+    },
+    {
+      "description": "is a tool for comparing between brain maps.\nHome Page - Github - Paper",
+      "items": [],
+      "title": "neuromaps"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T05:52:50.799Z",
+    "original_repository": "openlists/ElectrophysiologySoftware",
+    "original_repository_sha": "2e42a5f0e5c81011fc6ad3850e82bded8bb0b93f",
+    "enhanced_repository": "enhansome/enhansome-ElectrophysiologySoftware",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open Software for Human Electrophysiology with stars"
+  }
+}
