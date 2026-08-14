@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,482 | 🐛 634 | 🌐 Python | 📅 2026-08-12 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,481 | 🐛 636 | 🌐 Python | 📅 2026-08-12 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,323 | 🐛 12 | 🌐 Python | 📅 2026-08-07
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,324 | 🐛 13 | 🌐 Python | 📅 2026-08-07
 
 ### FieldTrip
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 981 | 🐛 97 | 🌐 MATLAB | 📅 2026-08-12 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 981 | 🐛 95 | 🌐 MATLAB | 📅 2026-08-12 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -211,7 +211,7 @@ The following are standalone tools, independent of general software platforms, f
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
 [Homepage](https://fooof-tools.github.io/) -
-[Github](https://github.com/fooof-tools/fooof) ⭐ 444 | 🐛 27 | 🌐 Python | 📅 2026-06-23 -
+[Github](https://github.com/fooof-tools/fooof) ⭐ 445 | 🐛 27 | 🌐 Python | 📅 2026-06-23 -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### ByCycle
@@ -248,7 +248,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `FRITES` is package for computing information-theoretic measures on human and electrophysiological data.
 
 [Homepage](https://brainets.github.io/frites/) -
-[Github](https://github.com/brainets/frites) ⭐ 102 | 🐛 8 | 🌐 Python | 📅 2025-04-30
+[Github](https://github.com/brainets/frites) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2025-04-30
 
 ### Antropy
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 292 | 🌐 Python | 📅 2026-08-03
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 293 | 🌐 Python | 📅 2026-08-03
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 112 | 🌐 JavaScript | 📅 2026-08-10
+[Github](https://github.com/gallantlab/pycortex) ⭐ 662 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-14
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
