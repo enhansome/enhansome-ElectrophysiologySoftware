@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,483 | 🐛 637 | 🌐 Python | 📅 2026-08-12 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,484 | 🐛 635 | 🌐 Python | 📅 2026-08-15 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,324 | 🐛 13 | 🌐 Python | 📅 2026-08-07
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,325 | 🐛 13 | 🌐 Python | 📅 2026-08-07
 
 ### FieldTrip
 
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 484 | 🐛 51 | 🌐 MATLAB | 📅 2026-08-11 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 484 | 🐛 52 | 🌐 MATLAB | 📅 2026-08-11 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -292,7 +292,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 
 The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
-[Github](https://github.com/aestrivex/bctpy) ⭐ 348 | 🐛 35 | 🌐 Python | 📅 2026-07-08
+[Github](https://github.com/aestrivex/bctpy) ⭐ 347 | 🐛 35 | 🌐 Python | 📅 2026-07-08
 
 ### Tensor PAC
 
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 579 | 🐛 11 | 🌐 Python | 📅 2026-04-11
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 580 | 🐛 11 | 🌐 Python | 📅 2026-04-11
 
 ### kCSD - kernel Current Source Density
 
@@ -507,7 +507,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 `OpenMEEG` is a package for solving forward problems for EEG & MEG data.
 
 [Home Page](https://openmeeg.github.io) -
-[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 56 | 🌐 C++ | 📅 2026-08-14 -
+[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 58 | 🌐 C++ | 📅 2026-08-14 -
 [Paper](https://doi.org/10.1186/1475-925X-9-45)
 
 ### fast Continuous Wavelet Transform
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 288 | 🌐 Python | 📅 2026-08-14
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,423 | 🐛 288 | 🌐 Python | 📅 2026-08-14
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-14
+[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 115 | 🌐 JavaScript | 📅 2026-08-14
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
