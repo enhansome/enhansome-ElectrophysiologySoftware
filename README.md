@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,487 | 🐛 635 | 🌐 Python | 📅 2026-08-17 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,488 | 🐛 636 | 🌐 Python | 📅 2026-08-18 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -49,7 +49,7 @@ The following are general purpose platforms, with functionality including: loadi
 `elephant` is a tool for analyzing electrophysiological data.
 
 [Home Page](https://neuralensemble.org/elephant/) -
-[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 244 | 🐛 44 | 🌐 Python | 📅 2026-06-21
+[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 244 | 🐛 45 | 🌐 Python | 📅 2026-06-21
 
 ### Wonambi
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,326 | 🐛 13 | 🌐 Python | 📅 2026-08-07
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,328 | 🐛 13 | 🌐 Python | 📅 2026-08-07
 
 ### FieldTrip
 
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 484 | 🐛 51 | 🌐 MATLAB | 📅 2026-08-11 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 484 | 🐛 51 | 🌐 MATLAB | 📅 2026-08-18 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -211,7 +211,7 @@ The following are standalone tools, independent of general software platforms, f
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
 [Homepage](https://fooof-tools.github.io/) -
-[Github](https://github.com/fooof-tools/fooof) ⭐ 446 | 🐛 27 | 🌐 Python | 📅 2026-06-23 -
+[Github](https://github.com/fooof-tools/fooof) ⭐ 447 | 🐛 27 | 🌐 Python | 📅 2026-06-23 -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### ByCycle
@@ -248,7 +248,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `FRITES` is package for computing information-theoretic measures on human and electrophysiological data.
 
 [Homepage](https://brainets.github.io/frites/) -
-[Github](https://github.com/brainets/frites) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2025-04-30
+[Github](https://github.com/brainets/frites) ⭐ 104 | 🐛 8 | 🌐 Python | 📅 2025-04-30
 
 ### Antropy
 
@@ -516,7 +516,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 
 `fCWT` is a package for fast calculations of Continuous Wavelet Transforms.
 
-[Github](https://github.com/fastlib/fCWT) ⭐ 400 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 -
+[Github](https://github.com/fastlib/fCWT) ⭐ 401 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 -
 [Paper](https://doi.org/10.1038/s43588-021-00183-z)
 
 ## Plugins
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 180 | 🐛 89 | 🌐 Python | 📅 2026-08-18 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 181 | 🐛 88 | 🌐 Python | 📅 2026-08-19 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -562,7 +562,7 @@ The following are plugins, designed primary for use with one of the aforemention
 The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EEGLab.
 
 [Home Page](https://vislab.github.io/EEG-Clean-Tools/) -
-[Github](https://github.com/VisLab/EEG-Clean-Tools) ⭐ 99 | 🐛 7 | 🌐 MATLAB | 📅 2025-03-31 -
+[Github](https://github.com/VisLab/EEG-Clean-Tools) ⭐ 99 | 🐛 8 | 🌐 MATLAB | 📅 2025-03-31 -
 [Paper](https://doi.org/10.3389/fninf.2015.00016)
 
 ### RELAX
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,423 | 🐛 288 | 🌐 Python | 📅 2026-08-17
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 289 | 🌐 Python | 📅 2026-08-18
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 116 | 🌐 JavaScript | 📅 2026-08-17
+[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 116 | 🌐 JavaScript | 📅 2026-08-18
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
