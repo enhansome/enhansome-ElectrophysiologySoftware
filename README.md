@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,489 | 🐛 634 | 🌐 Python | 📅 2026-08-19 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,490 | 🐛 636 | 🌐 Python | 📅 2026-08-19 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,327 | 🐛 13 | 🌐 Python | 📅 2026-08-07
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,328 | 🐛 13 | 🌐 Python | 📅 2026-08-07
 
 ### FieldTrip
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 981 | 🐛 96 | 🌐 MATLAB | 📅 2026-08-12 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 981 | 🐛 97 | 🌐 MATLAB | 📅 2026-08-12 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 484 | 🐛 51 | 🌐 MATLAB | 📅 2026-08-18 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 484 | 🐛 52 | 🌐 MATLAB | 📅 2026-08-20 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -221,7 +221,7 @@ The following are standalone tools, independent of general software platforms, f
 `ByCycle` is a tool for cycle-by-cycle analyses of neural oscillations.
 
 [Homepage](https://bycycle-tools.github.io/) -
-[Github](https://github.com/bycycle-tools/bycycle) ⭐ 101 | 🐛 9 | 🌐 Python | 📅 2026-06-09 -
+[Github](https://github.com/bycycle-tools/bycycle) ⭐ 102 | 🐛 9 | 🌐 Python | 📅 2026-06-09 -
 [Paper](https://doi.org/10.1152/jn.00273.2019)
 
 ### pynapple
@@ -257,7 +257,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Antropy` is a package for computing entropy and complexity measures on EEG data.
 
 [Homepage](https://raphaelvallat.com/antropy/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/antropy) ⭐ 377 | 🐛 0 | 🌐 Python | 📅 2026-04-01
+[Github](https://github.com/raphaelvallat/antropy) ⭐ 378 | 🐛 0 | 🌐 Python | 📅 2026-04-01
 
 ### PTSA - Python Time Series Analysis
 
@@ -572,7 +572,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `RELAX` (Reduction of Electroencephalographic Artifacts) provides a fully automated method to clean EEG data.
 
-[Github](https://github.com/NeilwBailey/RELAX) ⭐ 43 | 🐛 0 | 🌐 MATLAB | 📅 2025-08-12 -
+[Github](https://github.com/NeilwBailey/RELAX) ⭐ 43 | 🐛 1 | 🌐 MATLAB | 📅 2025-08-12 -
 [Paper1](https://doi.org/10.1101/2022.03.08.483548) -
 [Paper2](https://doi.org/10.1101/2022.03.08.483554)
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,425 | 🐛 288 | 🌐 Python | 📅 2026-08-19
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,425 | 🐛 286 | 🌐 Python | 📅 2026-08-19
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
