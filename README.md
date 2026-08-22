@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,488 | 🐛 637 | 🌐 Python | 📅 2026-08-20 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,488 | 🐛 636 | 🌐 Python | 📅 2026-08-21 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -136,7 +136,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 The `BBCI` tool is collection of tools for online and offline analyses for brain-computer interface experiments.
 
-[Github](https://github.com/bbci/bbci_public) ⭐ 169 | 🐛 26 | 🌐 MATLAB | 📅 2020-04-07 -
+[Github](https://github.com/bbci/bbci_public) ⭐ 170 | 🐛 26 | 🌐 MATLAB | 📅 2020-04-07 -
 [Paper](https://doi.org/10.3389/fnins.2016.00530)
 
 ### EEGUtils
@@ -211,7 +211,7 @@ The following are standalone tools, independent of general software platforms, f
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
 [Homepage](https://fooof-tools.github.io/) -
-[Github](https://github.com/fooof-tools/fooof) ⭐ 447 | 🐛 27 | 🌐 Python | 📅 2026-06-23 -
+[Github](https://github.com/fooof-tools/fooof) ⭐ 448 | 🐛 27 | 🌐 Python | 📅 2026-06-23 -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### ByCycle
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-20 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-21 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -552,7 +552,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `PrPREP` is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.
 
 [Homepage](https://pyprep.readthedocs.io/en/latest/) -
-[Github](https://github.com/sappelhoff/pyprep) ⭐ 183 | 🐛 15 | 🌐 Python | 📅 2026-08-10
+[Github](https://github.com/sappelhoff/pyprep) ⭐ 183 | 🐛 14 | 🌐 Python | 📅 2026-08-21
 
 ### PREP Pipeline
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 288 | 🌐 Python | 📅 2026-08-20
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 294 | 🌐 Python | 📅 2026-08-21
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 662 | 🐛 114 | 🌐 JavaScript | 📅 2026-08-21
+[Github](https://github.com/gallantlab/pycortex) ⭐ 662 | 🐛 124 | 🌐 JavaScript | 📅 2026-08-22
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
