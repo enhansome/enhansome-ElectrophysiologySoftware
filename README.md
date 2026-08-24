@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,492 | 🐛 631 | 🌐 Python | 📅 2026-08-23 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,493 | 🐛 630 | 🌐 Python | 📅 2026-08-24 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,330 | 🐛 13 | 🌐 Python | 📅 2026-08-07
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,331 | 🐛 13 | 🌐 Python | 📅 2026-08-07
 
 ### FieldTrip
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-22 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-23 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -432,7 +432,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 `HERMES` is tool for estimating connectivity measures between M/EEG signals.
 
 [Home Page](http://hermes.ctb.upm.es) -
-[Github](https://github.com/guiomar/HERMES) ⭐ 16 | 🐛 1 | 🌐 MATLAB | 📅 2019-05-13 -
+[Github](https://github.com/guiomar/HERMES) ⭐ 17 | 🐛 1 | 🌐 MATLAB | 📅 2019-05-13 -
 [Paper](https://doi.org/10.3389/fnins.2018.00368)
 
 ### SEREEGA - Simulating Event-Related EEG Activity
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 788 | 🐛 156 | 🌐 Python | 📅 2026-08-03
+[Github](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 156 | 🌐 Python | 📅 2026-08-03
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 294 | 🌐 Python | 📅 2026-08-21
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,425 | 🐛 294 | 🌐 Python | 📅 2026-08-21
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 662 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-22
+[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 124 | 🌐 JavaScript | 📅 2026-08-24
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
