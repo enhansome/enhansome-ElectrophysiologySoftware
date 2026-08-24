@@ -1,7 +1,1279 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "The following are general purpose platforms, with functionality including: loading data, preprocessing, visualization, standard analysis, and making figures.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1301584,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:36:29Z",
+                "owner": "mne-tools",
+                "repo": "mne-python",
+                "stars": 3494
+              }
+            }
+          ],
+          "description": "is a general purpose tool for processing, analyzing, and visualizing M/EEG data.",
+          "node_type": "group",
+          "title": "MNE"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3949530,
+                "language": "Python",
+                "last_commit": "2026-08-11T21:41:21Z",
+                "owner": "NeuralEnsemble",
+                "repo": "python-neo",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10311278,
+                "language": "Python",
+                "last_commit": "2026-06-21T13:46:32Z",
+                "owner": "NeuralEnsemble",
+                "repo": "elephant",
+                "stars": 244
+              }
+            }
+          ],
+          "description": "Neural Ensemble is an initiative for open-source software in neuroscience and includes a set of tools for managing and analyzing electrophysiology data.\nis a tool for representing electrophysiology data, and reading neurophysiological file formats.\nis a tool for analyzing electrophysiological data.",
+          "node_type": "group",
+          "title": "Neural Ensemble Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100681586,
+                "language": "Python",
+                "last_commit": "2026-04-29T22:20:38Z",
+                "owner": "wonambi-python",
+                "repo": "wonambi",
+                "stars": 100
+              }
+            }
+          ],
+          "description": "is a general purpose tool for processing, analyzing, and visualizing EEG data, including specific tools focused on sleep scoring and analysis.",
+          "node_type": "group",
+          "title": "Wonambi"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218212111,
+                "language": "Python",
+                "last_commit": "2026-08-07T23:42:29Z",
+                "owner": "neuropsychology",
+                "repo": "NeuroKit",
+                "stars": 2331
+              }
+            }
+          ],
+          "description": "is a tool for neurophysiological signal processing.",
+          "node_type": "group",
+          "title": "NeuroKit2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7785050,
+                "language": "MATLAB",
+                "last_commit": "2026-08-12T21:45:55Z",
+                "owner": "fieldtrip",
+                "repo": "fieldtrip",
+                "stars": 981
+              }
+            }
+          ],
+          "description": "is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.",
+          "node_type": "group",
+          "title": "FieldTrip"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71512307,
+                "language": "MATLAB",
+                "last_commit": "2026-08-20T01:04:27Z",
+                "owner": "brainstorm-tools",
+                "repo": "brainstorm3",
+                "stars": 484
+              }
+            }
+          ],
+          "description": "is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.",
+          "node_type": "group",
+          "title": "BrainStorm"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70277661,
+                "language": "MATLAB",
+                "last_commit": "2023-07-04T05:42:29Z",
+                "owner": "UCSFBiomagneticImagingLab",
+                "repo": "nutmeg",
+                "stars": 17
+              }
+            }
+          ],
+          "description": "is a general purpose tool for processing, analyzing, and visualizing MEG data.",
+          "node_type": "group",
+          "title": "NutMEG"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29133488,
+                "language": "MATLAB",
+                "last_commit": "2020-04-07T08:03:25Z",
+                "owner": "bbci",
+                "repo": "bbci_public",
+                "stars": 170
+              }
+            }
+          ],
+          "description": "The tool is collection of tools for online and offline analyses for brain-computer interface experiments.",
+          "node_type": "group",
+          "title": "BBCI - Berlin brain-computer interface"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85406871,
+                "language": "R",
+                "last_commit": "2026-02-27T20:08:56Z",
+                "owner": "craddm",
+                "repo": "eegUtils",
+                "stars": 115
+              }
+            }
+          ],
+          "description": "is a general purpose tool for processing, analyzing, and visualizing EEG data.",
+          "node_type": "group",
+          "title": "EEGUtils"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153299577,
+                "language": "R",
+                "last_commit": "2025-05-07T16:46:32Z",
+                "owner": "bnicenboim",
+                "repo": "eeguana",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "is a package for working with EEG data.",
+          "node_type": "group",
+          "title": "EEGuana"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51923980,
+                "language": "Julia",
+                "last_commit": "2023-05-04T19:27:00Z",
+                "owner": "rob-luke",
+                "repo": "Neuroimaging.jl",
+                "stars": 48
+              }
+            }
+          ],
+          "description": "is library for processing EEG data.",
+          "node_type": "group",
+          "title": "EEG.jl"
+        }
+      ],
+      "title": "General Purpose Tools"
+    },
+    {
+      "description": "The following are standalone tools, independent of general software platforms, for specific purposes.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94924688,
+                "language": "Python",
+                "last_commit": "2026-06-10T22:35:02Z",
+                "owner": "neurodsp-tools",
+                "repo": "neurodsp",
+                "stars": 353
+              }
+            }
+          ],
+          "description": "is a package for calculating a broad range of measures on neural time series, including a range of time-domain measures such as waveform shape analyses.",
+          "node_type": "group",
+          "title": "NeuroDSP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95601569,
+                "language": "Python",
+                "last_commit": "2026-06-23T23:13:52Z",
+                "owner": "fooof-tools",
+                "repo": "fooof",
+                "stars": 448
+              }
+            }
+          ],
+          "description": "(formerly called ) is a package for parameterizing neural power spectra.",
+          "node_type": "group",
+          "title": "SpecParam (formerly 'fooof')"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147111879,
+                "language": "Python",
+                "last_commit": "2026-06-09T23:09:15Z",
+                "owner": "bycycle-tools",
+                "repo": "bycycle",
+                "stars": 102
+              }
+            }
+          ],
+          "description": "is a tool for cycle-by-cycle analyses of neural oscillations.",
+          "node_type": "group",
+          "title": "ByCycle"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 645137556,
+                "language": "Python",
+                "last_commit": "2023-12-03T19:38:00Z",
+                "owner": "PeyracheLab",
+                "repo": "pynapple",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "Pynapple (Python Neural Analysis Package) is a lightweight, general purpose library for analyzing neurophysiological data, that includes some utilities for working with field data.",
+          "node_type": "group",
+          "title": "pynapple"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382343706,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-03-29T21:04:35Z",
+                "owner": "jrudoler",
+                "repo": "irasa",
+                "stars": 1
+              }
+            }
+          ],
+          "description": "A Python implementation of the 'irregular resampling auto-spectral analysis'. Note that this is a re-implementation of the algorithm described in the paper.",
+          "node_type": "group",
+          "title": "IRASA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213869364,
+                "language": "Python",
+                "last_commit": "2025-04-30T15:41:04Z",
+                "owner": "brainets",
+                "repo": "frites",
+                "stars": 104
+              }
+            }
+          ],
+          "description": "is package for computing information-theoretic measures on human and electrophysiological data.",
+          "node_type": "group",
+          "title": "Frites - Framework for Information Theoretic analysis of Electrophysiological data and Statistics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348535903,
+                "language": "Python",
+                "last_commit": "2026-04-01T21:31:15Z",
+                "owner": "raphaelvallat",
+                "repo": "antropy",
+                "stars": 378
+              }
+            }
+          ],
+          "description": "is a package for computing entropy and complexity measures on EEG data.",
+          "node_type": "group",
+          "title": "Antropy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48139460,
+                "language": "Python",
+                "last_commit": "2026-06-02T22:13:16Z",
+                "owner": "pennmem",
+                "repo": "ptsa",
+                "stars": 22
+              }
+            }
+          ],
+          "description": "is package for time series analysis in Python, focused on analyzing electrophysiological data.",
+          "node_type": "group",
+          "title": "PTSA - Python Time Series Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363703094,
+                "language": "Python",
+                "last_commit": "2022-08-15T21:40:43Z",
+                "owner": "kemerelab",
+                "repo": "ghostipy",
+                "stars": 28
+              }
+            }
+          ],
+          "description": "is a toolbox for signal processing and spectral analyses.",
+          "node_type": "group",
+          "title": "GhostiPy - General Hub Of Spectral Techniques In Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104382538,
+                "language": "Python",
+                "last_commit": "2026-05-12T16:44:09Z",
+                "owner": "Eden-Kramer-Lab",
+                "repo": "spectral_connectivity",
+                "stars": 137
+              }
+            }
+          ],
+          "description": "is a package for functional connectivity and coherence related measures.",
+          "node_type": "group",
+          "title": "Spectral Connectivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13154676,
+                "language": "Python",
+                "last_commit": "2026-07-08T05:18:29Z",
+                "owner": "aestrivex",
+                "repo": "bctpy",
+                "stars": 347
+              }
+            }
+          ],
+          "description": "The is a package for brain connectivity measures.",
+          "node_type": "group",
+          "title": "Brain Connectivity Toolbox for Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93316276,
+                "language": "Python",
+                "last_commit": "2024-07-30T12:42:12Z",
+                "owner": "EtienneCmb",
+                "repo": "tensorpac",
+                "stars": 120
+              }
+            }
+          ],
+          "description": "is a tool for calculating phase-amplitude coupling measures, using tensors and parallel computing.",
+          "node_type": "group",
+          "title": "Tensor PAC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85829984,
+                "language": "Python",
+                "last_commit": "2026-03-26T20:34:25Z",
+                "owner": "pactools",
+                "repo": "pactools",
+                "stars": 109
+              }
+            }
+          ],
+          "description": "is a package for calculating phase-amplitude coupling measures in neural time series.",
+          "node_type": "group",
+          "title": "PACTools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14768042,
+                "language": "Python",
+                "last_commit": "2024-01-18T08:09:58Z",
+                "owner": "forrestbao",
+                "repo": "pyeeg",
+                "stars": 265
+              }
+            }
+          ],
+          "description": "includes some implementations of information theoretic and complexity related measures for neural time series.",
+          "node_type": "group",
+          "title": "PyEEG"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37885346,
+                "language": "Python",
+                "last_commit": "2017-10-06T05:08:51Z",
+                "owner": "choldgraf",
+                "repo": "ecogtools",
+                "stars": 19
+              }
+            }
+          ],
+          "description": "is a collection of tools for analyzing ECoG data.",
+          "node_type": "group",
+          "title": "ECoGTools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 977524685,
+                "language": null,
+                "last_commit": "2026-08-24T13:30:09Z",
+                "owner": "christianbrodbeck",
+                "repo": "Eelbrain",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "is a tool for statistical analysis of M/EEG data.",
+          "node_type": "group",
+          "title": "EELBrain"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161560926,
+                "language": "Python",
+                "last_commit": "2026-04-11T07:38:08Z",
+                "owner": "raphaelvallat",
+                "repo": "yasa",
+                "stars": 581
+              }
+            }
+          ],
+          "description": "is a package for analyzing polysomnograghy recordings.",
+          "node_type": "group",
+          "title": "YASA - Yet another spindle algorithm"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58364349,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-26T08:50:07Z",
+                "owner": "Neuroinflab",
+                "repo": "kCSD-python",
+                "stars": 25
+              }
+            }
+          ],
+          "description": "The tool implements kernel Current Source Density.",
+          "node_type": "group",
+          "title": "kCSD - kernel Current Source Density"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469472275,
+                "language": "Python",
+                "last_commit": "2023-03-08T19:49:45Z",
+                "owner": "MicroBrew09",
+                "repo": "xenon-lfp-analysis",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "Xenon is an interactive platform for analyzing LFP activity from multi-electrode array (MEA) recordings.",
+          "node_type": "group",
+          "title": "Xenon LFP Analysis Platform"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138600886,
+                "language": "MATLAB",
+                "last_commit": "2022-01-17T11:06:57Z",
+                "owner": "jkosciessa",
+                "repo": "eBOSC",
+                "stars": 30
+              }
+            }
+          ],
+          "description": "is a tool for oscillation detection and measurement.",
+          "node_type": "group",
+          "title": "eBOSC - extended Better OSCillation detector"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163894879,
+                "language": "MATLAB",
+                "last_commit": "2025-10-21T07:15:50Z",
+                "owner": "umair-hassan",
+                "repo": "best-toolbox",
+                "stars": 39
+              }
+            }
+          ],
+          "description": "is a tool for designing and running non-invasive brain stimulation experiments.",
+          "node_type": "group",
+          "title": "BEST - Brain Electrophysiological recording & STimulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80904585,
+                "language": "MATLAB",
+                "last_commit": "2022-07-28T11:37:37Z",
+                "owner": "corcorana",
+                "repo": "restingIAF",
+                "stars": 36
+              }
+            }
+          ],
+          "description": "is a tool for estimating the peak individual alpha frequency.",
+          "node_type": "group",
+          "title": "restingIAF"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89452207,
+                "language": "MATLAB",
+                "last_commit": "2026-02-05T14:13:04Z",
+                "owner": "fahrenfort",
+                "repo": "ADAM",
+                "stars": 45
+              }
+            }
+          ],
+          "description": "is a tool for encoding and decoding model analysis on M/EEG data.",
+          "node_type": "group",
+          "title": "ADAM - Amsterdam Decoding and Modeling Toolbox"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10111995,
+                "language": "MATLAB",
+                "last_commit": "2019-05-13T16:14:45Z",
+                "owner": "guiomar",
+                "repo": "HERMES",
+                "stars": 17
+              }
+            }
+          ],
+          "description": "is tool for estimating connectivity measures between M/EEG signals.",
+          "node_type": "group",
+          "title": "HERMES"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94347781,
+                "language": "MATLAB",
+                "last_commit": "2023-07-10T13:54:57Z",
+                "owner": "lrkrol",
+                "repo": "SEREEGA",
+                "stars": 81
+              }
+            }
+          ],
+          "description": "is a package for simulating synthetic data that mimic event-related EEG activity.",
+          "node_type": "group",
+          "title": "SEREEGA - Simulating Event-Related EEG Activity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100591584,
+                "language": "MATLAB",
+                "last_commit": "2025-05-13T11:00:38Z",
+                "owner": "unfoldtoolbox",
+                "repo": "unfold",
+                "stars": 65
+              }
+            }
+          ],
+          "description": "is a tool for deconvolving overlapping EEG signals and for non-linear modeling.",
+          "node_type": "group",
+          "title": "UNFOLD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18193350,
+                "language": "MATLAB",
+                "last_commit": "2022-05-06T11:07:49Z",
+                "owner": "Mensen",
+                "repo": "ept_TFCE-matlab",
+                "stars": 30
+              }
+            }
+          ],
+          "description": "is a tool for statistical analysis of already preprocessed M/EEG data, focused mainly around the 'threshold-free cluster enhancement' method.",
+          "node_type": "group",
+          "title": "ept-TFCE"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47890414,
+                "language": "MATLAB",
+                "last_commit": "2025-05-21T10:20:41Z",
+                "owner": "peclayson",
+                "repo": "ERA_Toolbox",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "is a tool for calculating reliability estimates for ERP data.",
+          "node_type": "group",
+          "title": "ERA - ERP Reliability Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15682131,
+                "language": "MATLAB",
+                "last_commit": "2019-08-28T15:34:31Z",
+                "owner": "ebrevdo",
+                "repo": "synchrosqueezing",
+                "stars": 85
+              }
+            }
+          ],
+          "description": "is a tool for time-frequency and time-scale analyses.",
+          "node_type": "group",
+          "title": "SynchSqueezing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152378279,
+                "language": "MATLAB",
+                "last_commit": "2025-07-11T13:43:05Z",
+                "owner": "methlabUZH",
+                "repo": "automagic",
+                "stars": 117
+              }
+            }
+          ],
+          "description": "is a standardized toolbox for preprocessing EEG datasets.",
+          "node_type": "group",
+          "title": "AutoMagic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3290574,
+                "language": "C++",
+                "last_commit": "2026-08-17T23:29:49Z",
+                "owner": "openmeeg",
+                "repo": "openmeeg",
+                "stars": 87
+              }
+            }
+          ],
+          "description": "is a package for solving forward problems for EEG & MEG data.",
+          "node_type": "group",
+          "title": "OpenMEEG"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 433519836,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-01-06T13:36:25Z",
+                "owner": "fastlib",
+                "repo": "fCWT",
+                "stars": 401
+              }
+            }
+          ],
+          "description": "is a package for fast calculations of Continuous Wavelet Transforms.",
+          "node_type": "group",
+          "title": "fast Continuous Wavelet Transform"
+        }
+      ],
+      "title": "Standalone Tools"
+    },
+    {
+      "description": "The following are plugins, designed primary for use with one of the aforementioned general purpose tools.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59485140,
+                "language": "Python",
+                "last_commit": "2026-07-29T23:41:11Z",
+                "owner": "autoreject",
+                "repo": "autoreject",
+                "stars": 161
+              }
+            }
+          ],
+          "description": "is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.",
+          "node_type": "group",
+          "title": "AutoReject"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89170358,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:22:50Z",
+                "owner": "mne-tools",
+                "repo": "mne-bids",
+                "stars": 181
+              }
+            }
+          ],
+          "description": "is a tool for creating BIDS compatible datasets with MNE.",
+          "node_type": "group",
+          "title": "MNE-BIDS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129240824,
+                "language": "Python",
+                "last_commit": "2026-08-21T09:47:39Z",
+                "owner": "sappelhoff",
+                "repo": "pyprep",
+                "stars": 183
+              }
+            }
+          ],
+          "description": "is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.",
+          "node_type": "group",
+          "title": "PyPREP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24889807,
+                "language": "MATLAB",
+                "last_commit": "2025-03-31T14:57:40Z",
+                "owner": "VisLab",
+                "repo": "EEG-Clean-Tools",
+                "stars": 99
+              }
+            }
+          ],
+          "description": "The pipeline is a standardized pre-processing tool for EEG data, using EEGLab.",
+          "node_type": "group",
+          "title": "PREP Pipeline"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": "Paper1 - Paper2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441143232,
+                "language": "MATLAB",
+                "last_commit": "2025-08-12T09:21:08Z",
+                "owner": "NeilwBailey",
+                "repo": "RELAX",
+                "stars": 43
+              }
+            }
+          ],
+          "description": "(Reduction of Electroencephalographic Artifacts) provides a fully automated method to clean EEG data.",
+          "node_type": "group",
+          "title": "RELAX"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18813170,
+                "language": "MATLAB",
+                "last_commit": "2026-07-28T00:44:47Z",
+                "owner": "ucdavis",
+                "repo": "erplab",
+                "stars": 309
+              }
+            }
+          ],
+          "description": "is a tool for event-related potential (ERP) analysis of EEG data, with EEGLab.",
+          "node_type": "group",
+          "title": "ERPlab"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16271088,
+                "language": "MATLAB",
+                "last_commit": "2026-05-25T16:19:15Z",
+                "owner": "LIMO-EEG-Toolbox",
+                "repo": "limo_tools",
+                "stars": 62
+              }
+            }
+          ],
+          "description": "is a tool for Linear Modeling of EEG data, with EEGLab.",
+          "node_type": "group",
+          "title": "LIMO - Linear Modeling"
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "The following are broader purpose neuro-tools that could be used with electrophysiology data.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 791352,
+                "language": "Python",
+                "last_commit": "2026-08-03T21:58:31Z",
+                "owner": "nipy",
+                "repo": "nibabel",
+                "stars": 790
+              }
+            }
+          ],
+          "description": "is a tool for read/write access to common neuroimaging file formats.",
+          "node_type": "group",
+          "title": "nibabel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1235740,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:19:54Z",
+                "owner": "nilearn",
+                "repo": "nilearn",
+                "stars": 1424
+              }
+            }
+          ],
+          "description": "is a tool for applying machine learning to neuroimaging data.",
+          "node_type": "group",
+          "title": "nilearn"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58749555,
+                "language": "Python",
+                "last_commit": "2024-07-11T06:07:32Z",
+                "owner": "EtienneCmb",
+                "repo": "visbrain",
+                "stars": 258
+              }
+            }
+          ],
+          "description": "is a tool for brain data visualization.",
+          "node_type": "group",
+          "title": "Visbrain"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12472709,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T04:50:31Z",
+                "owner": "gallantlab",
+                "repo": "pycortex",
+                "stars": 663
+              }
+            }
+          ],
+          "description": "is a tool for visualizing cortical surfaces.",
+          "node_type": "group",
+          "title": "PyCortex"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197232489,
+                "language": "Python",
+                "last_commit": "2026-06-09T15:34:00Z",
+                "owner": "MICA-MNI",
+                "repo": "BrainSpace",
+                "stars": 250
+              }
+            }
+          ],
+          "description": "is a tool for analyzing gradients in neuroimaging datasets.",
+          "node_type": "group",
+          "title": "BrainSpace"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Home Page",
+              "description": "Github - Paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375755159,
+                "language": "Python",
+                "last_commit": "2026-06-13T07:03:47Z",
+                "owner": "netneurolab",
+                "repo": "neuromaps",
+                "stars": 341
+              }
+            }
+          ],
+          "description": "is a tool for comparing between brain maps.",
+          "node_type": "group",
+          "title": "neuromaps"
+        }
+      ],
+      "title": "Neuro Tools"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:06:48.773Z",
+    "last_updated": "2026-08-24T14:40:26.131Z",
     "original_repository": "openlists/ElectrophysiologySoftware",
     "original_repository_id": 141502329,
     "original_repository_sha": "2e42a5f0e5c81011fc6ad3850e82bded8bb0b93f",
