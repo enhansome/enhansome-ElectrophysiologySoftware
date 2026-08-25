@@ -176,7 +176,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "bbci/bbci_public",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -358,7 +358,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "jrudoler/irasa",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -446,7 +446,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "kemerelab/ghostipy",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -490,7 +490,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "aestrivex/bctpy",
               "description": null,
               "children": [],
               "repo_info": {
@@ -556,7 +556,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "forrestbao/pyeeg",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -578,7 +578,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "choldgraf/ecogtools",
               "description": null,
               "children": [],
               "repo_info": {
@@ -688,7 +688,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "jkosciessa/eBOSC",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -732,7 +732,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "corcorana/restingIAF",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -754,7 +754,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "fahrenfort/ADAM",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -798,7 +798,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "lrkrol/SEREEGA",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -842,7 +842,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "Mensen/ept_TFCE-matlab",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -886,7 +886,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "ebrevdo/synchrosqueezing",
               "description": null,
               "children": [],
               "repo_info": {
@@ -908,7 +908,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "methlabUZH/automagic",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -952,7 +952,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "fastlib/fCWT",
               "description": "Paper",
               "children": [],
               "repo_info": {
@@ -1068,7 +1068,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "NeilwBailey/RELAX",
               "description": "Paper1 - Paper2",
               "children": [],
               "repo_info": {
@@ -1273,7 +1273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:59:42.541Z",
+    "last_updated": "2026-08-25T06:28:48.647Z",
     "original_repository": "openlists/ElectrophysiologySoftware",
     "original_repository_id": 141502329,
     "original_repository_sha": "2e42a5f0e5c81011fc6ad3850e82bded8bb0b93f",
