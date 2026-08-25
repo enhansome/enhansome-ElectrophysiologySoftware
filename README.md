@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,494 | 🐛 634 | 🌐 Python | 📅 2026-08-24 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,494 | 🐛 636 | 🌐 Python | 📅 2026-08-24 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 362 | 🐛 170 | 🌐 Python | 📅 2026-08-11
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 362 | 🐛 169 | 🌐 Python | 📅 2026-08-24
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 484 | 🐛 54 | 🌐 MATLAB | 📅 2026-08-20 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 484 | 🐛 51 | 🌐 MATLAB | 📅 2026-08-25 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -385,7 +385,7 @@ Xenon is an interactive platform for analyzing LFP activity from multi-electrode
 
 `eBOSC` is a tool for oscillation detection and measurement.
 
-[Github](https://github.com/jkosciessa/eBOSC) ⭐ 30 | 🐛 0 | 🌐 MATLAB | 📅 2022-01-17 -
+[Github](https://github.com/jkosciessa/eBOSC) ⭐ 31 | 🐛 0 | 🌐 MATLAB | 📅 2022-01-17 -
 [Paper](http://doi.org/10.1016/j.neuroimage.2019.116331)
 
 ### BEST - Brain Electrophysiological recording & STimulation
@@ -507,7 +507,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 `OpenMEEG` is a package for solving forward problems for EEG & MEG data.
 
 [Home Page](https://openmeeg.github.io) -
-[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 58 | 🌐 C++ | 📅 2026-08-17 -
+[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 58 | 🌐 C++ | 📅 2026-08-24 -
 [Paper](https://doi.org/10.1186/1475-925X-9-45)
 
 ### fast Continuous Wavelet Transform
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 181 | 🐛 88 | 🌐 Python | 📅 2026-08-19 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 181 | 🐛 88 | 🌐 Python | 📅 2026-08-24 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 156 | 🌐 Python | 📅 2026-08-03
+[Github](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 156 | 🌐 Python | 📅 2026-08-24
 
 ### nilearn
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 124 | 🌐 JavaScript | 📅 2026-08-24
+[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 127 | 🌐 JavaScript | 📅 2026-08-25
 
 ### BrainSpace
 
@@ -683,9 +683,9 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `neuromaps` is a tool for comparing between brain maps.
 
 [Home Page](https://netneurolab.github.io/neuromaps/) -
-[Github](https://github.com/netneurolab/neuromaps) ⭐ 341 | 🐛 32 | 🌐 Python | 📅 2026-06-13 -
+[Github](https://github.com/netneurolab/neuromaps) ⭐ 341 | 🐛 33 | 🌐 Python | 📅 2026-06-13 -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
