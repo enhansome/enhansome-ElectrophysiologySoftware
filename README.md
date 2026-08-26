@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,494 | 🐛 637 | 🌐 Python | 📅 2026-08-24 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,494 | 🐛 633 | 🌐 Python | 📅 2026-08-25 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -118,7 +118,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NutMEG` is a general purpose tool for processing, analyzing, and visualizing MEG data.
 
 [Home Page](https://nitrc.org/plugins/mwiki/index.php/nutmeg:MainPage) -
-[Github](https://github.com/UCSFBiomagneticImagingLab/nutmeg) ⭐ 17 | 🐛 1 | 🌐 MATLAB | 📅 2023-07-04 -
+[Github](https://github.com/UCSFBiomagneticImagingLab/nutmeg) ⭐ 18 | 🐛 1 | 🌐 MATLAB | 📅 2023-07-04 -
 [Paper](https://doi.org/10.1155/2011/758973)
 
 ### Signaleeg
@@ -248,7 +248,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `FRITES` is package for computing information-theoretic measures on human and electrophysiological data.
 
 [Homepage](https://brainets.github.io/frites/) -
-[Github](https://github.com/brainets/frites) ⭐ 104 | 🐛 8 | 🌐 Python | 📅 2025-04-30
+[Github](https://github.com/brainets/frites) ⭐ 105 | 🐛 8 | 🌐 Python | 📅 2025-04-30
 
 ### Antropy
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-24 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-25 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -516,7 +516,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 
 `fCWT` is a package for fast calculations of Continuous Wavelet Transforms.
 
-[Github](https://github.com/fastlib/fCWT) ⭐ 401 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 -
+[Github](https://github.com/fastlib/fCWT) ⭐ 402 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 -
 [Paper](https://doi.org/10.1038/s43588-021-00183-z)
 
 ## Plugins
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,424 | 🐛 297 | 🌐 Python | 📅 2026-08-24
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,425 | 🐛 291 | 🌐 Python | 📅 2026-08-25
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 127 | 🌐 JavaScript | 📅 2026-08-25
+[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 126 | 🌐 JavaScript | 📅 2026-08-25
 
 ### BrainSpace
 
@@ -673,7 +673,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `BrainSpace` is a tool for analyzing gradients in neuroimaging datasets.
 
 [Home Page](https://brainspace.readthedocs.io/en/latest/) -
-[Github](https://github.com/MICA-MNI/BrainSpace) ⭐ 250 | 🐛 5 | 🌐 Python | 📅 2026-06-09 -
+[Github](https://github.com/MICA-MNI/BrainSpace) ⭐ 251 | 🐛 5 | 🌐 Python | 📅 2026-06-09 -
 [Paper](https://doi.org/10.1038/s42003-020-0794-7)
 
 ### neuromaps
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
