@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:16:10Z",
+                "last_commit": "2026-08-27T15:19:57Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
                 "stars": 3496
@@ -475,7 +475,7 @@
                 "archived": false,
                 "id": 104382538,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:38:28Z",
+                "last_commit": "2026-08-27T13:23:38Z",
                 "owner": "Eden-Kramer-Lab",
                 "repo": "spectral_connectivity",
                 "stars": 137
@@ -607,7 +607,7 @@
                 "archived": false,
                 "id": 977524685,
                 "language": null,
-                "last_commit": "2026-08-26T15:09:38Z",
+                "last_commit": "2026-08-27T15:10:45Z",
                 "owner": "christianbrodbeck",
                 "repo": "Eelbrain",
                 "stars": 0
@@ -1273,7 +1273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:01.136Z",
+    "last_updated": "2026-08-27T15:20:30.555Z",
     "original_repository_info": {
       "archived": false,
       "id": 141502329,
