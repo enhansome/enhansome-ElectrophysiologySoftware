@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-25T19:08:45Z",
+                "last_commit": "2026-08-27T10:16:10Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3494
+                "stars": 3496
               }
             }
           ],
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-07T23:42:29Z",
                 "owner": "neuropsychology",
                 "repo": "NeuroKit",
-                "stars": 2331
+                "stars": 2333
               }
             }
           ],
@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-12T21:45:55Z",
                 "owner": "fieldtrip",
                 "repo": "fieldtrip",
-                "stars": 981
+                "stars": 982
               }
             }
           ],
@@ -302,7 +302,7 @@
                 "last_commit": "2026-06-23T23:13:52Z",
                 "owner": "fooof-tools",
                 "repo": "fooof",
-                "stars": 448
+                "stars": 449
               }
             }
           ],
@@ -475,7 +475,7 @@
                 "archived": false,
                 "id": 104382538,
                 "language": "Python",
-                "last_commit": "2026-05-12T16:44:09Z",
+                "last_commit": "2026-08-27T03:38:28Z",
                 "owner": "Eden-Kramer-Lab",
                 "repo": "spectral_connectivity",
                 "stars": 137
@@ -522,7 +522,7 @@
                 "last_commit": "2024-07-30T12:42:12Z",
                 "owner": "EtienneCmb",
                 "repo": "tensorpac",
-                "stars": 120
+                "stars": 121
               }
             }
           ],
@@ -607,7 +607,7 @@
                 "archived": false,
                 "id": 977524685,
                 "language": null,
-                "last_commit": "2026-08-25T17:33:55Z",
+                "last_commit": "2026-08-26T15:09:38Z",
                 "owner": "christianbrodbeck",
                 "repo": "Eelbrain",
                 "stars": 0
@@ -937,7 +937,7 @@
                 "archived": false,
                 "id": 3290574,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:02:10Z",
+                "last_commit": "2026-08-26T17:57:25Z",
                 "owner": "openmeeg",
                 "repo": "openmeeg",
                 "stars": 87
@@ -1009,7 +1009,7 @@
                 "archived": false,
                 "id": 89170358,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:22:32Z",
+                "last_commit": "2026-08-27T10:39:24Z",
                 "owner": "mne-tools",
                 "repo": "mne-bids",
                 "stars": 181
@@ -1078,7 +1078,7 @@
                 "last_commit": "2025-08-12T09:21:08Z",
                 "owner": "NeilwBailey",
                 "repo": "RELAX",
-                "stars": 43
+                "stars": 44
               }
             }
           ],
@@ -1169,7 +1169,7 @@
                 "archived": false,
                 "id": 1235740,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:53:05Z",
+                "last_commit": "2026-08-27T11:29:05Z",
                 "owner": "nilearn",
                 "repo": "nilearn",
                 "stars": 1425
@@ -1213,7 +1213,7 @@
                 "archived": false,
                 "id": 12472709,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T21:26:38Z",
+                "last_commit": "2026-08-27T08:24:55Z",
                 "owner": "gallantlab",
                 "repo": "pycortex",
                 "stars": 663
@@ -1273,9 +1273,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:00:19.933Z",
-    "original_repository": "openlists/ElectrophysiologySoftware",
-    "original_repository_id": 141502329,
+    "last_updated": "2026-08-27T11:36:01.136Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 141502329,
+      "language": null,
+      "last_commit": "2025-02-09T06:08:27Z",
+      "owner": "openlists",
+      "repo": "ElectrophysiologySoftware",
+      "stars": 131
+    },
     "original_repository_sha": "2e42a5f0e5c81011fc6ad3850e82bded8bb0b93f",
     "enhanced_repository": "enhansome/enhansome-ElectrophysiologySoftware",
     "enhanced_repository_description": null,
