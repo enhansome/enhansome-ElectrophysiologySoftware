@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:19:57Z",
+                "last_commit": "2026-08-28T16:12:42Z",
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3496
-              }
+                "stars": 3497
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a general purpose tool for processing, analyzing, and visualizing M/EEG data.",
@@ -40,7 +41,8 @@
                 "owner": "NeuralEnsemble",
                 "repo": "python-neo",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "NeuralEnsemble",
                 "repo": "elephant",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "Neural Ensemble is an initiative for open-source software in neuroscience and includes a set of tools for managing and analyzing electrophysiology data.\nis a tool for representing electrophysiology data, and reading neurophysiological file formats.\nis a tool for analyzing electrophysiological data.",
@@ -77,7 +80,8 @@
                 "owner": "wonambi-python",
                 "repo": "wonambi",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a general purpose tool for processing, analyzing, and visualizing EEG data, including specific tools focused on sleep scoring and analysis.",
@@ -98,8 +102,9 @@
                 "last_commit": "2026-08-07T23:42:29Z",
                 "owner": "neuropsychology",
                 "repo": "NeuroKit",
-                "stars": 2333
-              }
+                "stars": 2335
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for neurophysiological signal processing.",
@@ -121,7 +126,8 @@
                 "owner": "fieldtrip",
                 "repo": "fieldtrip",
                 "stars": 982
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.",
@@ -142,8 +148,9 @@
                 "last_commit": "2026-08-25T01:11:06Z",
                 "owner": "brainstorm-tools",
                 "repo": "brainstorm3",
-                "stars": 484
-              }
+                "stars": 485
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.",
@@ -165,7 +172,8 @@
                 "owner": "UCSFBiomagneticImagingLab",
                 "repo": "nutmeg",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a general purpose tool for processing, analyzing, and visualizing MEG data.",
@@ -187,7 +195,8 @@
                 "owner": "bbci",
                 "repo": "bbci_public",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "The tool is collection of tools for online and offline analyses for brain-computer interface experiments.",
@@ -209,7 +218,8 @@
                 "owner": "craddm",
                 "repo": "eegUtils",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a general purpose tool for processing, analyzing, and visualizing EEG data.",
@@ -231,7 +241,8 @@
                 "owner": "bnicenboim",
                 "repo": "eeguana",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for working with EEG data.",
@@ -253,7 +264,8 @@
                 "owner": "rob-luke",
                 "repo": "Neuroimaging.jl",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is library for processing EEG data.",
@@ -281,7 +293,8 @@
                 "owner": "neurodsp-tools",
                 "repo": "neurodsp",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for calculating a broad range of measures on neural time series, including a range of time-domain measures such as waveform shape analyses.",
@@ -303,7 +316,8 @@
                 "owner": "fooof-tools",
                 "repo": "fooof",
                 "stars": 449
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "(formerly called ) is a package for parameterizing neural power spectra.",
@@ -325,7 +339,8 @@
                 "owner": "bycycle-tools",
                 "repo": "bycycle",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for cycle-by-cycle analyses of neural oscillations.",
@@ -347,7 +362,8 @@
                 "owner": "PeyracheLab",
                 "repo": "pynapple",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "Pynapple (Python Neural Analysis Package) is a lightweight, general purpose library for analyzing neurophysiological data, that includes some utilities for working with field data.",
@@ -369,7 +385,8 @@
                 "owner": "jrudoler",
                 "repo": "irasa",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "A Python implementation of the 'irregular resampling auto-spectral analysis'. Note that this is a re-implementation of the algorithm described in the paper.",
@@ -391,7 +408,8 @@
                 "owner": "brainets",
                 "repo": "frites",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is package for computing information-theoretic measures on human and electrophysiological data.",
@@ -413,7 +431,8 @@
                 "owner": "raphaelvallat",
                 "repo": "antropy",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for computing entropy and complexity measures on EEG data.",
@@ -435,7 +454,8 @@
                 "owner": "pennmem",
                 "repo": "ptsa",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is package for time series analysis in Python, focused on analyzing electrophysiological data.",
@@ -457,7 +477,8 @@
                 "owner": "kemerelab",
                 "repo": "ghostipy",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a toolbox for signal processing and spectral analyses.",
@@ -475,11 +496,12 @@
                 "archived": false,
                 "id": 104382538,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:23:38Z",
+                "last_commit": "2026-08-28T15:51:31Z",
                 "owner": "Eden-Kramer-Lab",
                 "repo": "spectral_connectivity",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for functional connectivity and coherence related measures.",
@@ -501,7 +523,8 @@
                 "owner": "aestrivex",
                 "repo": "bctpy",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "The is a package for brain connectivity measures.",
@@ -523,7 +546,8 @@
                 "owner": "EtienneCmb",
                 "repo": "tensorpac",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for calculating phase-amplitude coupling measures, using tensors and parallel computing.",
@@ -545,7 +569,8 @@
                 "owner": "pactools",
                 "repo": "pactools",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for calculating phase-amplitude coupling measures in neural time series.",
@@ -567,7 +592,8 @@
                 "owner": "forrestbao",
                 "repo": "pyeeg",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "includes some implementations of information theoretic and complexity related measures for neural time series.",
@@ -589,7 +615,8 @@
                 "owner": "choldgraf",
                 "repo": "ecogtools",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a collection of tools for analyzing ECoG data.",
@@ -607,11 +634,12 @@
                 "archived": false,
                 "id": 977524685,
                 "language": null,
-                "last_commit": "2026-08-27T15:10:45Z",
+                "last_commit": "2026-08-28T13:01:49Z",
                 "owner": "christianbrodbeck",
                 "repo": "Eelbrain",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for statistical analysis of M/EEG data.",
@@ -632,8 +660,9 @@
                 "last_commit": "2026-04-11T07:38:08Z",
                 "owner": "raphaelvallat",
                 "repo": "yasa",
-                "stars": 581
-              }
+                "stars": 582
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for analyzing polysomnograghy recordings.",
@@ -655,7 +684,8 @@
                 "owner": "Neuroinflab",
                 "repo": "kCSD-python",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "The tool implements kernel Current Source Density.",
@@ -677,7 +707,8 @@
                 "owner": "MicroBrew09",
                 "repo": "xenon-lfp-analysis",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "Xenon is an interactive platform for analyzing LFP activity from multi-electrode array (MEA) recordings.",
@@ -699,7 +730,8 @@
                 "owner": "jkosciessa",
                 "repo": "eBOSC",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for oscillation detection and measurement.",
@@ -721,7 +753,8 @@
                 "owner": "umair-hassan",
                 "repo": "best-toolbox",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for designing and running non-invasive brain stimulation experiments.",
@@ -743,7 +776,8 @@
                 "owner": "corcorana",
                 "repo": "restingIAF",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for estimating the peak individual alpha frequency.",
@@ -764,8 +798,9 @@
                 "last_commit": "2026-02-05T14:13:04Z",
                 "owner": "fahrenfort",
                 "repo": "ADAM",
-                "stars": 45
-              }
+                "stars": 46
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for encoding and decoding model analysis on M/EEG data.",
@@ -787,7 +822,8 @@
                 "owner": "guiomar",
                 "repo": "HERMES",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is tool for estimating connectivity measures between M/EEG signals.",
@@ -809,7 +845,8 @@
                 "owner": "lrkrol",
                 "repo": "SEREEGA",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for simulating synthetic data that mimic event-related EEG activity.",
@@ -831,7 +868,8 @@
                 "owner": "unfoldtoolbox",
                 "repo": "unfold",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for deconvolving overlapping EEG signals and for non-linear modeling.",
@@ -853,7 +891,8 @@
                 "owner": "Mensen",
                 "repo": "ept_TFCE-matlab",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for statistical analysis of already preprocessed M/EEG data, focused mainly around the 'threshold-free cluster enhancement' method.",
@@ -875,7 +914,8 @@
                 "owner": "peclayson",
                 "repo": "ERA_Toolbox",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for calculating reliability estimates for ERP data.",
@@ -897,7 +937,8 @@
                 "owner": "ebrevdo",
                 "repo": "synchrosqueezing",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for time-frequency and time-scale analyses.",
@@ -919,7 +960,8 @@
                 "owner": "methlabUZH",
                 "repo": "automagic",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a standardized toolbox for preprocessing EEG datasets.",
@@ -941,7 +983,8 @@
                 "owner": "openmeeg",
                 "repo": "openmeeg",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for solving forward problems for EEG & MEG data.",
@@ -963,7 +1006,8 @@
                 "owner": "fastlib",
                 "repo": "fCWT",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a package for fast calculations of Continuous Wavelet Transforms.",
@@ -991,7 +1035,8 @@
                 "owner": "autoreject",
                 "repo": "autoreject",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.",
@@ -1013,7 +1058,8 @@
                 "owner": "mne-tools",
                 "repo": "mne-bids",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for creating BIDS compatible datasets with MNE.",
@@ -1035,7 +1081,8 @@
                 "owner": "sappelhoff",
                 "repo": "pyprep",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.",
@@ -1057,7 +1104,8 @@
                 "owner": "VisLab",
                 "repo": "EEG-Clean-Tools",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "The pipeline is a standardized pre-processing tool for EEG data, using EEGLab.",
@@ -1079,7 +1127,8 @@
                 "owner": "NeilwBailey",
                 "repo": "RELAX",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "(Reduction of Electroencephalographic Artifacts) provides a fully automated method to clean EEG data.",
@@ -1097,11 +1146,12 @@
                 "archived": false,
                 "id": 18813170,
                 "language": "MATLAB",
-                "last_commit": "2026-07-28T00:44:47Z",
+                "last_commit": "2026-08-28T05:29:37Z",
                 "owner": "ucdavis",
                 "repo": "erplab",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for event-related potential (ERP) analysis of EEG data, with EEGLab.",
@@ -1123,7 +1173,8 @@
                 "owner": "LIMO-EEG-Toolbox",
                 "repo": "limo_tools",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for Linear Modeling of EEG data, with EEGLab.",
@@ -1151,7 +1202,8 @@
                 "owner": "nipy",
                 "repo": "nibabel",
                 "stars": 790
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for read/write access to common neuroimaging file formats.",
@@ -1169,11 +1221,12 @@
                 "archived": false,
                 "id": 1235740,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:29:05Z",
+                "last_commit": "2026-08-27T15:45:03Z",
                 "owner": "nilearn",
                 "repo": "nilearn",
                 "stars": 1425
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for applying machine learning to neuroimaging data.",
@@ -1195,7 +1248,8 @@
                 "owner": "EtienneCmb",
                 "repo": "visbrain",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for brain data visualization.",
@@ -1213,11 +1267,12 @@
                 "archived": false,
                 "id": 12472709,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T08:24:55Z",
+                "last_commit": "2026-08-28T02:01:17Z",
                 "owner": "gallantlab",
                 "repo": "pycortex",
                 "stars": 663
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for visualizing cortical surfaces.",
@@ -1239,7 +1294,8 @@
                 "owner": "MICA-MNI",
                 "repo": "BrainSpace",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for analyzing gradients in neuroimaging datasets.",
@@ -1261,7 +1317,8 @@
                 "owner": "netneurolab",
                 "repo": "neuromaps",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-28T16:46:06.606Z"
             }
           ],
           "description": "is a tool for comparing between brain maps.",
@@ -1273,7 +1330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:20:30.555Z",
+    "last_updated": "2026-08-28T16:46:06.606Z",
     "original_repository_info": {
       "archived": false,
       "id": 141502329,
@@ -1281,7 +1338,7 @@
       "last_commit": "2025-02-09T06:08:27Z",
       "owner": "openlists",
       "repo": "ElectrophysiologySoftware",
-      "stars": 131
+      "stars": 132
     },
     "original_repository_sha": "2e42a5f0e5c81011fc6ad3850e82bded8bb0b93f",
     "enhanced_repository": "enhansome/enhansome-ElectrophysiologySoftware",
