@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python",
+                "homepage": "https://mne.tools",
                 "id": 1301584,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:12:42Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T19:17:03Z",
+                "open_issues": 628,
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3497
+                "stars": 3497,
+                "topics": [
+                  "ecog",
+                  "eeg",
+                  "electrocorticography",
+                  "electroencephalography",
+                  "machine-learning",
+                  "magnetoencephalography",
+                  "meg",
+                  "neuroimaging",
+                  "neuroscience",
+                  "python",
+                  "statistics",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -35,12 +53,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neo is a package for representing electrophysiology data in Python, together with support for reading a wide range of neurophysiology file formats",
+                "homepage": "http://neo.readthedocs.io/en/latest/",
                 "id": 3949530,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T18:37:09Z",
+                "open_issues": 169,
                 "owner": "NeuralEnsemble",
                 "repo": "python-neo",
-                "stars": 362
+                "stars": 362,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             },
@@ -51,12 +74,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elephant is the Electrophysiology Analysis Toolkit",
+                "homepage": "http://www.python-elephant.org",
                 "id": 10311278,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-21T13:46:32Z",
+                "open_issues": 45,
                 "owner": "NeuralEnsemble",
                 "repo": "elephant",
-                "stars": 244
+                "stars": 244,
+                "topics": [
+                  "data-analysis",
+                  "electrophysiology",
+                  "hacktoberfest",
+                  "neurophysiology",
+                  "neuroscience",
+                  "python",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -74,12 +110,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Package to analyze EEG, ECoG and other electrophysiology formats. It allows for visualization of the results and for a GUI that can be used to score sleep stages.",
+                "homepage": "https://wonambi-python.github.io/",
                 "id": 100681586,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-29T22:20:38Z",
+                "open_issues": 13,
                 "owner": "wonambi-python",
                 "repo": "wonambi",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "ecog",
+                  "eeg",
+                  "electrocorticography",
+                  "periodogram",
+                  "sleep",
+                  "visualization",
+                  "wavelet"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -97,12 +146,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeuroKit2: The Python Toolbox for Neurophysiological Signal Processing",
+                "homepage": "https://neuropsychology.github.io/NeuroKit",
                 "id": 218212111,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-07T23:42:29Z",
+                "open_issues": 13,
                 "owner": "neuropsychology",
                 "repo": "NeuroKit",
-                "stars": 2335
+                "stars": 2335,
+                "topics": [
+                  "biosignals",
+                  "cardiac",
+                  "ecg",
+                  "eda",
+                  "eeg",
+                  "emg",
+                  "entropy",
+                  "eog",
+                  "hacktoberfest",
+                  "heart-rate",
+                  "hrv",
+                  "physiology",
+                  "ppg",
+                  "python",
+                  "scr",
+                  "signal",
+                  "signal-processing",
+                  "skin-conductance",
+                  "software",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -120,12 +195,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MATLAB toolbox for MEG, EEG and iEEG analysis",
+                "homepage": "http://www.fieldtriptoolbox.org",
                 "id": 7785050,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T21:45:55Z",
+                "open_issues": 97,
                 "owner": "fieldtrip",
                 "repo": "fieldtrip",
-                "stars": 982
+                "stars": 982,
+                "topics": [
+                  "analysis",
+                  "beamformer",
+                  "bids",
+                  "brain",
+                  "connectivity",
+                  "dipole",
+                  "donders",
+                  "ecog",
+                  "eeg",
+                  "fieldtrip",
+                  "ieeg",
+                  "matlab",
+                  "meg",
+                  "neuroimaging",
+                  "neuroscience",
+                  "seeg",
+                  "statistics",
+                  "time-frequency"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -143,12 +242,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brainstorm software: MEG, EEG, fNIRS, ECoG, sEEG and electrophysiology",
+                "homepage": "http://neuroimage.usc.edu/brainstorm",
                 "id": 71512307,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T01:11:06Z",
+                "open_issues": 53,
                 "owner": "brainstorm-tools",
                 "repo": "brainstorm3",
-                "stars": 485
+                "stars": 485,
+                "topics": [
+                  "eeg",
+                  "electrophysiology",
+                  "matlab",
+                  "meg"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -166,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neurodynamic Utility Toolbox for MEG",
+                "homepage": null,
                 "id": 70277661,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-04T05:42:29Z",
+                "open_issues": 1,
                 "owner": "UCSFBiomagneticImagingLab",
                 "repo": "nutmeg",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -189,12 +303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MATLAB toolbox for Brain-Computer Interfacing (BCI)",
+                "homepage": null,
                 "id": 29133488,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2020-04-07T08:03:25Z",
+                "open_issues": 26,
                 "owner": "bbci",
                 "repo": "bbci_public",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -212,12 +331,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An R package for processing and plotting of electroencephalography (EEG) data",
+                "homepage": "https://craddm.github.io/eegUtils/",
                 "id": 85406871,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-27T20:08:56Z",
+                "open_issues": 24,
                 "owner": "craddm",
                 "repo": "eegUtils",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "eeg",
+                  "eeg-analysis",
+                  "eeg-data",
+                  "eeg-signals",
+                  "eeg-signals-processing",
+                  "r",
+                  "rstats"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -235,12 +367,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package for manipulating  EEG data in R.",
+                "homepage": "https://bnicenboim.github.io/eeguana/",
                 "id": 153299577,
                 "language": "R",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-07T16:46:32Z",
+                "open_issues": 38,
                 "owner": "bnicenboim",
                 "repo": "eeguana",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "dplyr",
+                  "eeg",
+                  "eeg-analysis",
+                  "eeg-data",
+                  "eeg-signals",
+                  "r",
+                  "tidyverse"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -258,12 +403,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neuroimaging in Julia",
+                "homepage": "https://rob-luke.github.io/Neuroimaging.jl",
                 "id": 51923980,
                 "language": "Julia",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-05-04T19:27:00Z",
+                "open_issues": 24,
                 "owner": "rob-luke",
                 "repo": "Neuroimaging.jl",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "eeg",
+                  "electrophysiology",
+                  "julia",
+                  "neuroimaging"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -287,12 +442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Digital signal processing for neural time series.",
+                "homepage": "https://neurodsp-tools.github.io/",
                 "id": 94924688,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T22:35:02Z",
+                "open_issues": 16,
                 "owner": "neurodsp-tools",
                 "repo": "neurodsp",
-                "stars": 353
+                "stars": 353,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -310,12 +470,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parameterizing neural power spectra into periodic & aperiodic components. ",
+                "homepage": "https://fooof-tools.github.io/fooof/",
                 "id": 95601569,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-23T23:13:52Z",
+                "open_issues": 27,
                 "owner": "fooof-tools",
                 "repo": "fooof",
-                "stars": 449
+                "stars": 449,
+                "topics": [
+                  "aperiodic-exponent",
+                  "eeg",
+                  "fooof",
+                  "ieeg",
+                  "lfp",
+                  "local-field-potential",
+                  "meg",
+                  "neuroscience",
+                  "oscillations",
+                  "power-spectral-density",
+                  "specparam",
+                  "spectral-parameterization"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -333,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle-by-cycle analysis of neural oscillations.",
+                "homepage": "https://bycycle-tools.github.io/",
                 "id": 147111879,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-09T23:09:15Z",
+                "open_issues": 9,
                 "owner": "bycycle-tools",
                 "repo": "bycycle",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -356,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "PYthon Neural Analysis Package :pineapple:",
+                "homepage": "https://pynapple-org.github.io/pynapple/",
                 "id": 645137556,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-12-03T19:38:00Z",
+                "open_issues": 0,
                 "owner": "PeyracheLab",
                 "repo": "pynapple",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -379,12 +567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python implementation of Irregular Resampling Auto-Spectral Analysis",
+                "homepage": null,
                 "id": 382343706,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-29T21:04:35Z",
+                "open_issues": 0,
                 "owner": "jrudoler",
                 "repo": "irasa",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -402,12 +595,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for Information Theoretical analysis of Electrophysiological data and Statistics",
+                "homepage": "https://brainets.github.io/frites/",
                 "id": 213869364,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-04-30T15:41:04Z",
+                "open_issues": 8,
                 "owner": "brainets",
                 "repo": "frites",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "brainhack",
+                  "brainhack-marseille",
+                  "brainweb",
+                  "cluster-based",
+                  "electrophysiological-data",
+                  "ffx",
+                  "functional-connectivity",
+                  "gaussian-copula",
+                  "group-level",
+                  "information-theory",
+                  "institut-neurosciences-timone",
+                  "neurophysiological-data",
+                  "rfx",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -425,12 +638,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AntroPy: entropy and complexity of (EEG) time-series in Python",
+                "homepage": "https://raphaelvallat.com/antropy/",
                 "id": 348535903,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-01T21:31:15Z",
+                "open_issues": 0,
                 "owner": "raphaelvallat",
                 "repo": "antropy",
-                "stars": 378
+                "stars": 378,
+                "topics": [
+                  "algorithm",
+                  "complexity",
+                  "eeg",
+                  "entropy",
+                  "feature-extraction",
+                  "fractal-dimension",
+                  "machine-learning",
+                  "neuroscience",
+                  "numba",
+                  "python",
+                  "signal",
+                  "signal-processing"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -448,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PTSA - Python Time Series Analysis",
+                "homepage": "https://pennmem.github.io/ptsa/",
                 "id": 48139460,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-02T22:13:16Z",
+                "open_issues": 13,
                 "owner": "pennmem",
                 "repo": "ptsa",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -471,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 363703094,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-15T21:40:43Z",
+                "open_issues": 7,
                 "owner": "kemerelab",
                 "repo": "ghostipy",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -494,12 +735,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frequency domain estimation and functional and directed connectivity analysis tools for electrophysiological data",
+                "homepage": null,
                 "id": 104382538,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T15:51:31Z",
+                "open_issues": 5,
                 "owner": "Eden-Kramer-Lab",
                 "repo": "spectral_connectivity",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "brain-connectivity",
+                  "canonical-coherence",
+                  "coherence",
+                  "connectivity-measures",
+                  "electrophysiology",
+                  "frequency-domain",
+                  "global-coherence",
+                  "multitaper",
+                  "neuroscience",
+                  "phase-lag-index",
+                  "python",
+                  "spectral-granger-causality",
+                  "spectrogram"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -517,12 +777,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "brain connectivity toolbox for python",
+                "homepage": null,
                 "id": 13154676,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-08T05:18:29Z",
+                "open_issues": 35,
                 "owner": "aestrivex",
                 "repo": "bctpy",
-                "stars": 347
+                "stars": 347,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -540,12 +805,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phase-Amplitude Coupling under Python",
+                "homepage": "https://etiennecmb.github.io/tensorpac/",
                 "id": 93316276,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-07-30T12:42:12Z",
+                "open_issues": 8,
                 "owner": "EtienneCmb",
                 "repo": "tensorpac",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "amplitude",
+                  "coupling",
+                  "event-related",
+                  "filtering",
+                  "neuroscience",
+                  "oscillations",
+                  "pac",
+                  "parallel-computing",
+                  "phase",
+                  "phase-amplitude-coupling",
+                  "tensor"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -563,12 +845,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phase-amplitude coupling (PAC) toolbox",
+                "homepage": "https://pactools.github.io",
                 "id": 85829984,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-03-26T20:34:25Z",
+                "open_issues": 16,
                 "owner": "pactools",
                 "repo": "pactools",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "auto-regressive-model",
+                  "cfc",
+                  "cross-frequency",
+                  "dar",
+                  "models",
+                  "pac",
+                  "phase-amplitude"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -586,12 +881,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python + EEG/MEG = PyEEG",
+                "homepage": null,
                 "id": 14768042,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-18T08:09:58Z",
+                "open_issues": 13,
                 "owner": "forrestbao",
                 "repo": "pyeeg",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "eeg",
+                  "meg",
+                  "physiology",
+                  "python",
+                  "python-eeg",
+                  "series"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -609,12 +916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tools for analyzing electrocorticography data ",
+                "homepage": null,
                 "id": 37885346,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2017-10-06T05:08:51Z",
+                "open_issues": 5,
                 "owner": "choldgraf",
                 "repo": "ecogtools",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -632,12 +944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "eelbrain.readthedocs.io",
                 "id": 977524685,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T13:01:49Z",
+                "open_issues": 0,
                 "owner": "christianbrodbeck",
                 "repo": "Eelbrain",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -655,12 +972,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YASA (Yet Another Spindle Algorithm): a Python package to analyze polysomnographic sleep recordings.",
+                "homepage": "https://yasa-sleep.org",
                 "id": 161560926,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-11T07:38:08Z",
+                "open_issues": 11,
                 "owner": "raphaelvallat",
                 "repo": "yasa",
-                "stars": 582
+                "stars": 582,
+                "topics": [
+                  "artefact-rejection",
+                  "deep-sleep",
+                  "eeg-analysis",
+                  "eeg-signals",
+                  "numba",
+                  "peak-detection",
+                  "signal-processing",
+                  "sleep",
+                  "sleep-analysis",
+                  "sleep-scoring",
+                  "sleep-spindles",
+                  "sleep-stage-scoring",
+                  "sleep-staging",
+                  "spectral-analysis",
+                  "stft"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -678,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kernel Current Source Density",
+                "homepage": "https://kcsd-python.readthedocs.io/en/latest/",
                 "id": 58364349,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-26T08:50:07Z",
+                "open_issues": 15,
                 "owner": "Neuroinflab",
                 "repo": "kCSD-python",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -701,12 +1044,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xenon LFP Analysis GUI is a Python-Dash application to view and analyze LFP activity recorded using HD MEA systems.",
+                "homepage": null,
                 "id": 469472275,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-08T19:49:45Z",
+                "open_issues": 1,
                 "owner": "MicroBrew09",
                 "repo": "xenon-lfp-analysis",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "3brain",
+                  "data-analysis",
+                  "hd-mea",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -724,12 +1077,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "extended Better OSCillation Detection method",
+                "homepage": null,
                 "id": 138600886,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2022-01-17T11:06:57Z",
+                "open_issues": 0,
                 "owner": "jkosciessa",
                 "repo": "eBOSC",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -747,12 +1105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Brain Electrophysiological recording and STimulation (BEST) Toolbox, is a MATLAB based open source software that interfaces with a wide variety of EEG, EMG, TMS and other stimulating devices, and allows to run flexibly configured but fully automated closed-loop protocols.",
+                "homepage": null,
                 "id": 163894879,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2025-10-21T07:15:50Z",
+                "open_issues": 15,
                 "owner": "umair-hassan",
                 "repo": "best-toolbox",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -770,12 +1133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code and associated materials for resting-state individual alpha frequency estimation in EEGLAB",
+                "homepage": null,
                 "id": 80904585,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-28T11:37:37Z",
+                "open_issues": 2,
                 "owner": "corcorana",
                 "repo": "restingIAF",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -793,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the Amsterdam Decoding And Modeling (ADAM) toolbox",
+                "homepage": null,
                 "id": 89452207,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-05T14:13:04Z",
+                "open_issues": 0,
                 "owner": "fahrenfort",
                 "repo": "ADAM",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -816,12 +1189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source software package (HERMES) for the analysis of functional and effective brain connectivity from neurological data (e.g. MEG, EEG, iEEG).",
+                "homepage": "http://hermes.ctb.upm.es/",
                 "id": 10111995,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2019-05-13T16:14:45Z",
+                "open_issues": 1,
                 "owner": "guiomar",
                 "repo": "HERMES",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -839,12 +1217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SEREEGA: Simulating Event-Related EEG Activity",
+                "homepage": null,
                 "id": 94347781,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2023-07-10T13:54:57Z",
+                "open_issues": 2,
                 "owner": "lrkrol",
                 "repo": "SEREEGA",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -862,12 +1245,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A matlab EEG toolbox to perform overlap correction and non-linear & linear regression.",
+                "homepage": null,
                 "id": 100591584,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-13T11:00:38Z",
+                "open_issues": 37,
                 "owner": "unfoldtoolbox",
                 "repo": "unfold",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "deconvolution",
+                  "eeg",
+                  "event-related-potentials",
+                  "eye-tracking",
+                  "linear-regression",
+                  "mass-univariate",
+                  "overlap",
+                  "rerp",
+                  "splines"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -885,12 +1283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced EEG Statistics",
+                "homepage": null,
                 "id": 18193350,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2022-05-06T11:07:49Z",
+                "open_issues": 28,
                 "owner": "Mensen",
                 "repo": "ept_TFCE-matlab",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -908,12 +1311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Matlab toolbox for obtaining dependability estimates for ERP measurements",
+                "homepage": null,
                 "id": 47890414,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2025-05-21T10:20:41Z",
+                "open_issues": 8,
                 "owner": "peclayson",
                 "repo": "ERA_Toolbox",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -931,12 +1339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MATLAB Synchrosqueezing Toolbox",
+                "homepage": "https://ebrevdo.github.io/synsq/",
                 "id": 15682131,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2019-08-28T15:34:31Z",
+                "open_issues": 2,
                 "owner": "ebrevdo",
                 "repo": "synchrosqueezing",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -954,12 +1367,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automagic",
+                "homepage": null,
                 "id": 152378279,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-11T13:43:05Z",
+                "open_issues": 16,
                 "owner": "methlabUZH",
                 "repo": "automagic",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "automagic",
+                  "cleanrawdata",
+                  "eeg",
+                  "mara",
+                  "matlab",
+                  "methlab",
+                  "prep-pipeline",
+                  "preprocessing",
+                  "rpca",
+                  "uzh"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -977,12 +1406,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ package for low-frequency bio-electromagnetism solving forward problems in the field of EEG and MEG.",
+                "homepage": "http://openmeeg.github.io",
                 "id": 3290574,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T17:57:25Z",
+                "open_issues": 54,
                 "owner": "openmeeg",
                 "repo": "openmeeg",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "bem",
+                  "c-plus-plus",
+                  "eeg",
+                  "electromagnetism",
+                  "forward-problem",
+                  "meg"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1000,12 +1441,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fast Continuous Wavelet Transform (fCWT) is a library for fast calculation of CWT.",
+                "homepage": null,
                 "id": 433519836,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-06T13:36:25Z",
+                "open_issues": 45,
                 "owner": "fastlib",
                 "repo": "fCWT",
-                "stars": 402
+                "stars": 402,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "cwt",
+                  "fast",
+                  "matlab",
+                  "optimization",
+                  "signal-processing",
+                  "time-frequency-analysis",
+                  "wavelet-transform"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1029,12 +1485,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated rejection and repair of bad trials/sensors in M/EEG",
+                "homepage": "https://autoreject.github.io",
                 "id": 59485140,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-29T23:41:11Z",
+                "open_issues": 40,
                 "owner": "autoreject",
                 "repo": "autoreject",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "cross-validation",
+                  "electroencephalography",
+                  "magnetoencephalography",
+                  "meg",
+                  "mne-python",
+                  "preprocessing"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1052,12 +1520,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MNE-BIDS is a Python package that allows you to read and write BIDS-compatible datasets with the help of MNE-Python.",
+                "homepage": "https://mne.tools/mne-bids/",
                 "id": 89170358,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T10:39:24Z",
+                "open_issues": 89,
                 "owner": "mne-tools",
                 "repo": "mne-bids",
-                "stars": 181
+                "stars": 181,
+                "topics": [
+                  "bids",
+                  "eeg",
+                  "electroencephalography",
+                  "ieeg",
+                  "magnetoencephalography",
+                  "meg",
+                  "mne",
+                  "neuroimaging",
+                  "neuroscience"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1075,12 +1558,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyPREP: A Python implementation of the Preprocessing Pipeline (PREP) for EEG data",
+                "homepage": "https://pyprep.readthedocs.io/en/latest/",
                 "id": 129240824,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-21T09:47:39Z",
+                "open_issues": 14,
                 "owner": "sappelhoff",
                 "repo": "pyprep",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "artifact",
+                  "data",
+                  "eeg",
+                  "electroencephalogaphy",
+                  "mne",
+                  "neuroimaging",
+                  "neuroscience",
+                  "preprocessing",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1098,12 +1596,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains tools for EEG standardized preprocessing",
+                "homepage": "http://vislab.github.io/EEG-Clean-Tools/",
                 "id": 24889807,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2025-03-31T14:57:40Z",
+                "open_issues": 8,
                 "owner": "VisLab",
                 "repo": "EEG-Clean-Tools",
-                "stars": 99
+                "stars": 99,
+                "topics": [
+                  "automated",
+                  "eeg",
+                  "eeglab",
+                  "preprocessing"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1121,12 +1629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 441143232,
                 "language": "MATLAB",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-12T09:21:08Z",
+                "open_issues": 1,
                 "owner": "NeilwBailey",
                 "repo": "RELAX",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1144,12 +1657,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data.  It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools for ERP processing, visualization, and analysis.  A graphical user interface makes it easy for beginners to learn, and Matlab scripting provides enormous power for intermediate and advanced users.  ",
+                "homepage": "http://erpinfo.org/erplab",
                 "id": 18813170,
                 "language": "MATLAB",
-                "last_commit": "2026-08-28T05:29:37Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T01:53:53Z",
+                "open_issues": 128,
                 "owner": "ucdavis",
                 "repo": "erplab",
-                "stars": 309
+                "stars": 309,
+                "topics": [
+                  "cognitive-science",
+                  "csd",
+                  "eeg-data",
+                  "eeglab",
+                  "eeglab-toolbox",
+                  "electroencephalography",
+                  "erp",
+                  "erp-data",
+                  "erplab",
+                  "event-related-potentials",
+                  "matlab",
+                  "neuroscience"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1167,12 +1698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical Linear Modelling for MEEG data",
+                "homepage": "https://limo-eeg-toolbox.github.io/limo_meeg/",
                 "id": 16271088,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-25T16:19:15Z",
+                "open_issues": 25,
                 "owner": "LIMO-EEG-Toolbox",
                 "repo": "limo_tools",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1196,12 +1732,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package to access a cacophony of neuro-imaging file formats",
+                "homepage": "http://nipy.org/nibabel/",
                 "id": 791352,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T20:17:32Z",
+                "open_issues": 156,
                 "owner": "nipy",
                 "repo": "nibabel",
-                "stars": 790
+                "stars": 790,
+                "topics": [
+                  "afni-brik-head",
+                  "brain-imaging",
+                  "cifti-2",
+                  "data-formats",
+                  "dicom",
+                  "ecat",
+                  "gifti",
+                  "minc",
+                  "neuroimaging",
+                  "nifti",
+                  "python",
+                  "streamlines",
+                  "tck",
+                  "trk"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1219,12 +1775,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine learning for NeuroImaging in Python",
+                "homepage": "http://nilearn.github.io",
                 "id": 1235740,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T15:45:03Z",
+                "open_issues": 290,
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1425
+                "stars": 1425,
+                "topics": [
+                  "brain-connectivity",
+                  "brain-imaging",
+                  "brain-mri",
+                  "decoding",
+                  "fmri",
+                  "machine-learning",
+                  "mvpa",
+                  "neuroimaging",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1242,12 +1813,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-purpose GPU-accelerated open-source suite for brain data visualization",
+                "homepage": "http://visbrain.org",
                 "id": 58749555,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-11T06:07:32Z",
+                "open_issues": 54,
                 "owner": "EtienneCmb",
                 "repo": "visbrain",
-                "stars": 258
+                "stars": 258,
+                "topics": [
+                  "brain",
+                  "connectivity",
+                  "deep-sources",
+                  "gpu",
+                  "gui",
+                  "mni",
+                  "neuroscience",
+                  "opengl",
+                  "plot",
+                  "python",
+                  "sleep",
+                  "vispy",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1265,12 +1855,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pycortex is a python-based toolkit for surface visualization of fMRI data",
+                "homepage": "https://gallantlab.github.io/pycortex",
                 "id": 12472709,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T02:01:17Z",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-29T01:20:22Z",
+                "open_issues": 123,
                 "owner": "gallantlab",
                 "repo": "pycortex",
-                "stars": 663
+                "stars": 663,
+                "topics": [
+                  "fmri",
+                  "neuroimaging",
+                  "python",
+                  "surface-visualization"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1288,12 +1888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BrainSpace is an open-access toolbox that allows for the identification and analysis of gradients from neuroimaging and connectomics datasets | available in both Python and Matlab |",
+                "homepage": "http://brainspace.readthedocs.io",
                 "id": 197232489,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-09T15:34:00Z",
+                "open_issues": 5,
                 "owner": "MICA-MNI",
                 "repo": "BrainSpace",
-                "stars": 251
+                "stars": 251,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1311,12 +1916,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolbox for comparing brain maps",
+                "homepage": "https://netneurolab.github.io/neuromaps",
                 "id": 375755159,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-13T07:03:47Z",
+                "open_issues": 34,
                 "owner": "netneurolab",
                 "repo": "neuromaps",
-                "stars": 341
+                "stars": 341,
+                "topics": [
+                  "brain-imaging",
+                  "hacktoberfest",
+                  "neuroimaging",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
             }
@@ -1330,15 +1945,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:46:06.606Z",
+    "last_updated": "2026-08-29T04:55:31.470Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of openly available software tools for (mostly human) electrophysiology. ",
+      "homepage": null,
       "id": 141502329,
       "language": null,
+      "license": null,
       "last_commit": "2025-02-09T06:08:27Z",
+      "open_issues": 3,
       "owner": "openlists",
       "repo": "ElectrophysiologySoftware",
-      "stars": 132
+      "stars": 132,
+      "topics": [
+        "awesome-list",
+        "data-analysis",
+        "ecog",
+        "eeg",
+        "electrophysiology",
+        "lfp",
+        "list",
+        "meg",
+        "open-science",
+        "open-source",
+        "software"
+      ]
     },
     "original_repository_sha": "2e42a5f0e5c81011fc6ad3850e82bded8bb0b93f",
     "enhanced_repository": "enhansome/enhansome-ElectrophysiologySoftware",

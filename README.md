@@ -594,7 +594,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 `ERPLab` is a tool for event-related potential (ERP) analysis of EEG data, with EEGLab.
 
 [Home Page](https://erpinfo.org/erplab) -
-[Github](https://github.com/lucklab/erplab) ⭐ 309 | 🐛 128 | 🌐 MATLAB | 📅 2026-08-28 -
+[Github](https://github.com/lucklab/erplab) ⭐ 309 | 🐛 128 | 🌐 MATLAB | 📅 2026-08-29 -
 [Paper](https://doi.org/10.3389/fnhum.2014.00213)
 
 ### LIMO - Linear Modeling
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 123 | 🌐 JavaScript | 📅 2026-08-28
+[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 123 | 🌐 JavaScript | 📅 2026-08-29
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
