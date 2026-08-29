@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,497 | 🐛 628 | 🌐 Python | 📅 2026-08-28 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,497 | 🐛 629 | 🌐 Python | 📅 2026-08-28 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
