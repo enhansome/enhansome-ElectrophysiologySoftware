@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,497 | 🐛 629 | 🌐 Python | 📅 2026-08-28 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,497 | 🐛 632 | 🌐 Python | 📅 2026-08-29 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-28 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-30 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -487,7 +487,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 `AutoMagic` is a standardized toolbox for preprocessing EEG datasets.
 
-[Github](https://github.com/methlabUZH/automagic) ⭐ 117 | 🐛 16 | 🌐 MATLAB | 📅 2025-07-11 -
+[Github](https://github.com/methlabUZH/automagic) ⭐ 118 | 🐛 16 | 🌐 MATLAB | 📅 2025-07-11 -
 [Paper](https://doi.org/10.1101/460469)
 
 ### MVGC - Multivariate Granger Causality Toolbox
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 181 | 🐛 89 | 🌐 Python | 📅 2026-08-27 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 181 | 🐛 91 | 🌐 Python | 📅 2026-08-27 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,425 | 🐛 290 | 🌐 Python | 📅 2026-08-27
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,425 | 🐛 291 | 🌐 Python | 📅 2026-08-27
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
