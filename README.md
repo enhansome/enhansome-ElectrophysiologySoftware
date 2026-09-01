@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,497 | 🐛 628 | 🌐 Python | 📅 2026-08-31 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,500 | 🐛 625 | 🌐 Python | 📅 2026-08-31 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,336 | 🐛 14 | 🌐 Python | 📅 2026-08-07
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,336 | 🐛 15 | 🌐 Python | 📅 2026-08-07
 
 ### FieldTrip
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 983 | 🐛 97 | 🌐 MATLAB | 📅 2026-08-12 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 984 | 🐛 97 | 🌐 MATLAB | 📅 2026-08-12 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 485 | 🐛 53 | 🌐 MATLAB | 📅 2026-08-25 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 485 | 🐛 54 | 🌐 MATLAB | 📅 2026-08-25 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-30 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-08-31 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 582 | 🐛 11 | 🌐 Python | 📅 2026-04-11
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 583 | 🐛 11 | 🌐 Python | 📅 2026-04-11
 
 ### kCSD - kernel Current Source Density
 
@@ -507,7 +507,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 `OpenMEEG` is a package for solving forward problems for EEG & MEG data.
 
 [Home Page](https://openmeeg.github.io) -
-[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 54 | 🌐 C++ | 📅 2026-08-26 -
+[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 54 | 🌐 C++ | 📅 2026-08-31 -
 [Paper](https://doi.org/10.1186/1475-925X-9-45)
 
 ### fast Continuous Wavelet Transform
@@ -572,7 +572,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `RELAX` (Reduction of Electroencephalographic Artifacts) provides a fully automated method to clean EEG data.
 
-[Github](https://github.com/NeilwBailey/RELAX) ⭐ 44 | 🐛 1 | 🌐 MATLAB | 📅 2025-08-12 -
+[Github](https://github.com/NeilwBailey/RELAX) ⭐ 44 | 🐛 2 | 🌐 MATLAB | 📅 2025-08-12 -
 [Paper1](https://doi.org/10.1101/2022.03.08.483548) -
 [Paper2](https://doi.org/10.1101/2022.03.08.483554)
 
@@ -594,7 +594,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 `ERPLab` is a tool for event-related potential (ERP) analysis of EEG data, with EEGLab.
 
 [Home Page](https://erpinfo.org/erplab) -
-[Github](https://github.com/lucklab/erplab) ⭐ 309 | 🐛 129 | 🌐 MATLAB | 📅 2026-08-31 -
+[Github](https://github.com/lucklab/erplab) ⭐ 309 | 🐛 129 | 🌐 MATLAB | 📅 2026-09-01 -
 [Paper](https://doi.org/10.3389/fnhum.2014.00213)
 
 ### LIMO - Linear Modeling
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 156 | 🌐 Python | 📅 2026-08-24
+[Github](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 157 | 🌐 Python | 📅 2026-09-01
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,426 | 🐛 289 | 🌐 Python | 📅 2026-08-31
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,426 | 🐛 287 | 🌐 Python | 📅 2026-09-01
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 123 | 🌐 JavaScript | 📅 2026-08-31
+[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 126 | 🌐 JavaScript | 📅 2026-09-01
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
