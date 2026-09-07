@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,343 | 🐛 17 | 🌐 Python | 📅 2026-08-07
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,346 | 🐛 13 | 🌐 Python | 📅 2026-09-06
 
 ### FieldTrip
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-09-05 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-09-06 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 583 | 🐛 11 | 🌐 Python | 📅 2026-04-11
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 583 | 🐛 12 | 🌐 Python | 📅 2026-09-06
 
 ### kCSD - kernel Current Source Density
 
@@ -531,7 +531,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `AutoReject` is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.
 
 [Home Page](https://autoreject.github.io) -
-[Github](https://github.com/autoreject/autoreject) ⭐ 161 | 🐛 40 | 🌐 Python | 📅 2026-09-02 -
+[Github](https://github.com/autoreject/autoreject) ⭐ 162 | 🐛 40 | 🌐 Python | 📅 2026-09-02 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2017.06.030)
 
 ### MNE-BIDS
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 157 | 🌐 Python | 📅 2026-09-03
+[Github](https://github.com/nipy/nibabel) ⭐ 790 | 🐛 161 | 🌐 Python | 📅 2026-09-03
 
 ### nilearn
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 124 | 🌐 JavaScript | 📅 2026-09-03
+[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 124 | 🌐 JavaScript | 📅 2026-09-03
 
 ### BrainSpace
 
@@ -683,9 +683,9 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `neuromaps` is a tool for comparing between brain maps.
 
 [Home Page](https://netneurolab.github.io/neuromaps/) -
-[Github](https://github.com/netneurolab/neuromaps) ⭐ 342 | 🐛 34 | 🌐 Python | 📅 2026-06-13 -
+[Github](https://github.com/netneurolab/neuromaps) ⭐ 342 | 🐛 35 | 🌐 Python | 📅 2026-06-13 -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
