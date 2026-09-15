@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,514 | 🐛 618 | 🌐 Python | 📅 2026-09-14 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,516 | 🐛 619 | 🌐 Python | 📅 2026-09-14 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,353 | 🐛 13 | 🌐 Python | 📅 2026-09-06
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,354 | 🐛 13 | 🌐 Python | 📅 2026-09-06
 
 ### FieldTrip
 
@@ -155,7 +155,7 @@ The `BBCI` tool is collection of tools for online and offline analyses for brain
 `EEGuana` is a package for working with EEG data.
 
 [Home Page](https://craddm.github.io/eegUtils/) -
-[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 27 | 🐛 35 | 🌐 R | 📅 2026-09-14
+[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 27 | 🐛 36 | 🌐 R | 📅 2026-09-14
 
 ### RAVE
 
@@ -248,7 +248,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `FRITES` is package for computing information-theoretic measures on human and electrophysiological data.
 
 [Homepage](https://brainets.github.io/frites/) -
-[Github](https://github.com/brainets/frites) ⭐ 105 | 🐛 8 | 🌐 Python | 📅 2025-04-30
+[Github](https://github.com/brainets/frites) ⭐ 105 | 🐛 8 | 🌐 Python | 📅 2026-09-15
 
 ### Antropy
 
@@ -266,7 +266,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `PTSA` is package for time series analysis in Python, focused on analyzing electrophysiological data.
 
 [Homepage](https://pennmem.github.io/ptsa_new/html/index.html) -
-[Github](https://github.com/pennmem/ptsa_new) ⭐ 22 | 🐛 13 | 🌐 Python | 📅 2026-06-02
+[Github](https://github.com/pennmem/ptsa_new) ⭐ 22 | 🐛 13 | 🌐 Python | 📅 2026-09-14
 
 ### GhostiPy - General Hub Of Spectral Techniques In Python
 
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 6 | 🌐 Python | 📅 2026-09-02
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 6 | 🌐 Python | 📅 2026-09-14
 
 ### Brain Connectivity Toolbox for Python
 
@@ -451,7 +451,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 `Unfold` is a tool for deconvolving overlapping EEG signals and for non-linear modeling.
 
 [Home Page](https://www.unfoldtoolbox.org) -
-[Github](https://github.com/unfoldtoolbox/unfold) ⭐ 65 | 🐛 37 | 🌐 MATLAB | 📅 2025-05-13 -
+[Github](https://github.com/unfoldtoolbox/unfold) ⭐ 66 | 🐛 37 | 🌐 MATLAB | 📅 2025-05-13 -
 [Paper](https://doi.org/10.7717/peerj.7838)
 
 ### ept-TFCE
@@ -507,7 +507,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 `OpenMEEG` is a package for solving forward problems for EEG & MEG data.
 
 [Home Page](https://openmeeg.github.io) -
-[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 53 | 🌐 C++ | 📅 2026-09-08 -
+[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 53 | 🌐 C++ | 📅 2026-09-14 -
 [Paper](https://doi.org/10.1186/1475-925X-9-45)
 
 ### fast Continuous Wavelet Transform
@@ -604,8 +604,8 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `LIMO` is a tool for Linear Modeling of EEG data, with EEGLab.
 
-[Home Page](https://github.com/LIMO-EEG-Toolbox/limo_eeg/wiki) ⭐ 61 | 🐛 25 | 🌐 MATLAB | 📅 2026-09-09 -
-[Github](https://github.com/LIMO-EEG-Toolbox/limo_eeg) ⭐ 61 | 🐛 25 | 🌐 MATLAB | 📅 2026-09-09 -
+[Home Page](https://github.com/LIMO-EEG-Toolbox/limo_eeg/wiki) ⭐ 61 | 🐛 25 | 🌐 MATLAB | 📅 2026-09-14 -
+[Github](https://github.com/LIMO-EEG-Toolbox/limo_eeg) ⭐ 61 | 🐛 25 | 🌐 MATLAB | 📅 2026-09-14 -
 [Paper](https://doi.org/10.1155/2011/831409)
 
 ### SIFT - Source Information Flow Toolbox
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 791 | 🐛 162 | 🌐 Python | 📅 2026-09-07
+[Github](https://github.com/nipy/nibabel) ⭐ 792 | 🐛 160 | 🌐 Python | 📅 2026-09-14
 
 ### nilearn
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 125 | 🌐 JavaScript | 📅 2026-09-03
+[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 126 | 🌐 JavaScript | 📅 2026-09-14
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
