@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,516 | 🐛 619 | 🌐 Python | 📅 2026-09-14 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,517 | 🐛 618 | 🌐 Python | 📅 2026-09-15 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,354 | 🐛 13 | 🌐 Python | 📅 2026-09-06
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,356 | 🐛 13 | 🌐 Python | 📅 2026-09-06
 
 ### FieldTrip
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 987 | 🐛 107 | 🌐 MATLAB | 📅 2026-09-11 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 988 | 🐛 106 | 🌐 MATLAB | 📅 2026-09-15 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 486 | 🐛 55 | 🌐 MATLAB | 📅 2026-09-10 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 486 | 🐛 55 | 🌐 MATLAB | 📅 2026-09-15 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -441,7 +441,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 `SEREEGA` is a package for simulating synthetic data that mimic event-related EEG activity.
 
-[Github](https://github.com/lrkrol/SEREEGA) ⭐ 81 | 🐛 2 | 🌐 MATLAB | 📅 2023-07-10 -
+[Github](https://github.com/lrkrol/SEREEGA) ⭐ 82 | 🐛 2 | 🌐 MATLAB | 📅 2023-07-10 -
 [Paper](https://doi.org/10.1101/326066)
 
 ### UNFOLD
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 93 | 🌐 Python | 📅 2026-09-14 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 91 | 🌐 Python | 📅 2026-09-15 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -552,7 +552,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `PrPREP` is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.
 
 [Homepage](https://pyprep.readthedocs.io/en/latest/) -
-[Github](https://github.com/sappelhoff/pyprep) ⭐ 183 | 🐛 14 | 🌐 Python | 📅 2026-08-21
+[Github](https://github.com/sappelhoff/pyprep) ⭐ 183 | 🐛 15 | 🌐 Python | 📅 2026-08-21
 
 ### PREP Pipeline
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,431 | 🐛 288 | 🌐 Python | 📅 2026-09-14
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,432 | 🐛 288 | 🌐 Python | 📅 2026-09-14
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 126 | 🌐 JavaScript | 📅 2026-09-14
+[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 126 | 🌐 JavaScript | 📅 2026-09-14
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
