@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,517 | 🐛 618 | 🌐 Python | 📅 2026-09-15 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,519 | 🐛 617 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,356 | 🐛 13 | 🌐 Python | 📅 2026-09-06
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,358 | 🐛 13 | 🌐 Python | 📅 2026-09-06
 
 ### FieldTrip
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 988 | 🐛 106 | 🌐 MATLAB | 📅 2026-09-15 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 988 | 🐛 106 | 🌐 MATLAB | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 486 | 🐛 55 | 🌐 MATLAB | 📅 2026-09-15 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 487 | 🐛 55 | 🌐 MATLAB | 📅 2026-09-15 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -155,7 +155,7 @@ The `BBCI` tool is collection of tools for online and offline analyses for brain
 `EEGuana` is a package for working with EEG data.
 
 [Home Page](https://craddm.github.io/eegUtils/) -
-[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 27 | 🐛 36 | 🌐 R | 📅 2026-09-14
+[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 27 | 🐛 36 | 🌐 R | 📅 2026-09-17
 
 ### RAVE
 
@@ -201,7 +201,7 @@ The following are standalone tools, independent of general software platforms, f
 `NeuroDSP` is a package for calculating a broad range of measures on neural time series, including a range of time-domain measures such as waveform shape analyses.
 
 [Homepage](https://neurodsp-tools.github.io/) -
-[Github](https://github.com/neurodsp-tools/neurodsp) ⭐ 354 | 🐛 16 | 🌐 Python | 📅 2026-06-10 -
+[Github](https://github.com/neurodsp-tools/neurodsp) ⭐ 354 | 🐛 17 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.21105/joss.01272)
 
 ### SpecParam (formerly 'fooof')
@@ -211,7 +211,7 @@ The following are standalone tools, independent of general software platforms, f
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
 [Homepage](https://fooof-tools.github.io/) -
-[Github](https://github.com/fooof-tools/fooof) ⭐ 449 | 🐛 28 | 🌐 Python | 📅 2026-09-13 -
+[Github](https://github.com/fooof-tools/fooof) ⭐ 449 | 🐛 27 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### ByCycle
@@ -221,7 +221,7 @@ The following are standalone tools, independent of general software platforms, f
 `ByCycle` is a tool for cycle-by-cycle analyses of neural oscillations.
 
 [Homepage](https://bycycle-tools.github.io/) -
-[Github](https://github.com/bycycle-tools/bycycle) ⭐ 102 | 🐛 9 | 🌐 Python | 📅 2026-06-09 -
+[Github](https://github.com/bycycle-tools/bycycle) ⭐ 102 | 🐛 9 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1152/jn.00273.2019)
 
 ### pynapple
@@ -479,7 +479,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 `SynchroSqueezing` is a tool for time-frequency and time-scale analyses.
 
-[Github](https://github.com/ebrevdo/synchrosqueezing) ⭐ 85 | 🐛 2 | 🌐 MATLAB | 📅 2019-08-28
+[Github](https://github.com/ebrevdo/synchrosqueezing) ⭐ 86 | 🐛 2 | 🌐 MATLAB | 📅 2019-08-28
 
 ### AutoMagic
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,432 | 🐛 288 | 🌐 Python | 📅 2026-09-14
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,433 | 🐛 291 | 🌐 Python | 📅 2026-09-14
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
