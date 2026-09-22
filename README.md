@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,520 | 🐛 623 | 🌐 Python | 📅 2026-09-21 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,522 | 🐛 618 | 🌐 Python | 📅 2026-09-22 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 487 | 🐛 55 | 🌐 MATLAB | 📅 2026-09-15 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 487 | 🐛 56 | 🌐 MATLAB | 📅 2026-09-15 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -211,7 +211,7 @@ The following are standalone tools, independent of general software platforms, f
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
 [Homepage](https://fooof-tools.github.io/) -
-[Github](https://github.com/fooof-tools/fooof) ⭐ 449 | 🐛 27 | 🌐 Python | 📅 2026-09-16 -
+[Github](https://github.com/fooof-tools/fooof) ⭐ 451 | 🐛 27 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### ByCycle
@@ -487,7 +487,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 `AutoMagic` is a standardized toolbox for preprocessing EEG datasets.
 
-[Github](https://github.com/methlabUZH/automagic) ⭐ 118 | 🐛 16 | 🌐 MATLAB | 📅 2025-07-11 -
+[Github](https://github.com/methlabUZH/automagic) ⭐ 118 | 🐛 16 | 🌐 MATLAB | 📅 2026-09-22 -
 [Paper](https://doi.org/10.1101/460469)
 
 ### MVGC - Multivariate Granger Causality Toolbox
@@ -507,7 +507,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 `OpenMEEG` is a package for solving forward problems for EEG & MEG data.
 
 [Home Page](https://openmeeg.github.io) -
-[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 53 | 🌐 C++ | 📅 2026-09-18 -
+[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 53 | 🌐 C++ | 📅 2026-09-21 -
 [Paper](https://doi.org/10.1186/1475-925X-9-45)
 
 ### fast Continuous Wavelet Transform
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 91 | 🌐 Python | 📅 2026-09-15 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 92 | 🌐 Python | 📅 2026-09-21 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -572,7 +572,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `RELAX` (Reduction of Electroencephalographic Artifacts) provides a fully automated method to clean EEG data.
 
-[Github](https://github.com/NeilwBailey/RELAX) ⭐ 44 | 🐛 0 | 🌐 MATLAB | 📅 2026-09-05 -
+[Github](https://github.com/NeilwBailey/RELAX) ⭐ 44 | 🐛 1 | 🌐 MATLAB | 📅 2026-09-05 -
 [Paper1](https://doi.org/10.1101/2022.03.08.483548) -
 [Paper2](https://doi.org/10.1101/2022.03.08.483554)
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,439 | 🐛 286 | 🌐 Python | 📅 2026-09-21
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,439 | 🐛 288 | 🌐 Python | 📅 2026-09-22
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 132 | 🌐 JavaScript | 📅 2026-09-21
+[Github](https://github.com/gallantlab/pycortex) ⭐ 663 | 🐛 129 | 🌐 JavaScript | 📅 2026-09-22
 
 ### BrainSpace
 
@@ -673,7 +673,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `BrainSpace` is a tool for analyzing gradients in neuroimaging datasets.
 
 [Home Page](https://brainspace.readthedocs.io/en/latest/) -
-[Github](https://github.com/MICA-MNI/BrainSpace) ⭐ 252 | 🐛 5 | 🌐 Python | 📅 2026-06-09 -
+[Github](https://github.com/MICA-MNI/BrainSpace) ⭐ 252 | 🐛 6 | 🌐 Python | 📅 2026-06-09 -
 [Paper](https://doi.org/10.1038/s42003-020-0794-7)
 
 ### neuromaps
@@ -683,9 +683,9 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `neuromaps` is a tool for comparing between brain maps.
 
 [Home Page](https://netneurolab.github.io/neuromaps/) -
-[Github](https://github.com/netneurolab/neuromaps) ⭐ 348 | 🐛 35 | 🌐 Python | 📅 2026-06-13 -
+[Github](https://github.com/netneurolab/neuromaps) ⭐ 348 | 🐛 36 | 🌐 Python | 📅 2026-06-13 -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
