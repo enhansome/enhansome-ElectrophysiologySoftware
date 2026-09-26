@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,366 | 🐛 14 | 🌐 Python | 📅 2026-09-06
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,366 | 🐛 15 | 🌐 Python | 📅 2026-09-06
 
 ### FieldTrip
 
@@ -155,7 +155,7 @@ The `BBCI` tool is collection of tools for online and offline analyses for brain
 `EEGuana` is a package for working with EEG data.
 
 [Home Page](https://craddm.github.io/eegUtils/) -
-[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 27 | 🐛 37 | 🌐 R | 📅 2026-09-25
+[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 27 | 🐛 36 | 🌐 R | 📅 2026-09-25
 
 ### RAVE
 
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 6 | 🌐 Python | 📅 2026-09-23
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 6 | 🌐 Python | 📅 2026-09-26
 
 ### Brain Connectivity Toolbox for Python
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,441 | 🐛 281 | 🌐 Python | 📅 2026-09-25
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,441 | 🐛 277 | 🌐 Python | 📅 2026-09-26
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
