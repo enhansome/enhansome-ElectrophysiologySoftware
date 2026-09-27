@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,528 | 🐛 613 | 🌐 Python | 📅 2026-09-25 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,528 | 🐛 615 | 🌐 Python | 📅 2026-09-26 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,366 | 🐛 15 | 🌐 Python | 📅 2026-09-06
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,367 | 🐛 16 | 🌐 Python | 📅 2026-09-06
 
 ### FieldTrip
 
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 6 | 🌐 Python | 📅 2026-09-26
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 9 | 🌐 Python | 📅 2026-09-27
 
 ### Brain Connectivity Toolbox for Python
 
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 587 | 🐛 12 | 🌐 Python | 📅 2026-09-11
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 587 | 🐛 10 | 🌐 Python | 📅 2026-09-26
 
 ### kCSD - kernel Current Source Density
 
@@ -562,7 +562,7 @@ The following are plugins, designed primary for use with one of the aforemention
 The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EEGLab.
 
 [Home Page](https://vislab.github.io/EEG-Clean-Tools/) -
-[Github](https://github.com/VisLab/EEG-Clean-Tools) ⭐ 98 | 🐛 8 | 🌐 MATLAB | 📅 2025-03-31 -
+[Github](https://github.com/VisLab/EEG-Clean-Tools) ⭐ 98 | 🐛 9 | 🌐 MATLAB | 📅 2026-09-26 -
 [Paper](https://doi.org/10.3389/fninf.2015.00016)
 
 ### RELAX
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,441 | 🐛 277 | 🌐 Python | 📅 2026-09-26
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,441 | 🐛 278 | 🌐 Python | 📅 2026-09-26
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
