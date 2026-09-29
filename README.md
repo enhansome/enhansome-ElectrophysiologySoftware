@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,529 | 🐛 618 | 🌐 Python | 📅 2026-09-28 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,529 | 🐛 620 | 🌐 Python | 📅 2026-09-28 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,369 | 🐛 15 | 🌐 Python | 📅 2026-09-27
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,371 | 🐛 16 | 🌐 Python | 📅 2026-09-27
 
 ### FieldTrip
 
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2026-09-28
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-09-28
 
 ### Brain Connectivity Toolbox for Python
 
@@ -292,7 +292,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 
 The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
-[Github](https://github.com/aestrivex/bctpy) ⭐ 350 | 🐛 35 | 🌐 Python | 📅 2026-07-08
+[Github](https://github.com/aestrivex/bctpy) ⭐ 351 | 🐛 36 | 🌐 Python | 📅 2026-07-08
 
 ### Tensor PAC
 
@@ -507,7 +507,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 `OpenMEEG` is a package for solving forward problems for EEG & MEG data.
 
 [Home Page](https://openmeeg.github.io) -
-[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 53 | 🌐 C++ | 📅 2026-09-21 -
+[Github](https://github.com/openmeeg/openmeeg) ⭐ 87 | 🐛 54 | 🌐 C++ | 📅 2026-09-28 -
 [Paper](https://doi.org/10.1186/1475-925X-9-45)
 
 ### fast Continuous Wavelet Transform
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 93 | 🌐 Python | 📅 2026-09-28 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 93 | 🌐 Python | 📅 2026-09-29 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,441 | 🐛 282 | 🌐 Python | 📅 2026-09-26
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,440 | 🐛 276 | 🌐 Python | 📅 2026-09-29
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 127 | 🌐 JavaScript | 📅 2026-09-24
+[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 129 | 🌐 JavaScript | 📅 2026-09-29
 
 ### BrainSpace
 
@@ -683,9 +683,9 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `neuromaps` is a tool for comparing between brain maps.
 
 [Home Page](https://netneurolab.github.io/neuromaps/) -
-[Github](https://github.com/netneurolab/neuromaps) ⭐ 348 | 🐛 36 | 🌐 Python | 📅 2026-06-13 -
+[Github](https://github.com/netneurolab/neuromaps) ⭐ 346 | 🐛 36 | 🌐 Python | 📅 2026-06-13 -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
