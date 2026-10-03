@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,535 | 🐛 611 | 🌐 Python | 📅 2026-10-01 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,536 | 🐛 610 | 🌐 Python | 📅 2026-10-02 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 176 | 🌐 Python | 📅 2026-08-24
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 179 | 🌐 Python | 📅 2026-08-24
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,375 | 🐛 21 | 🌐 Python | 📅 2026-10-01
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,377 | 🐛 21 | 🌐 Python | 📅 2026-10-01
 
 ### FieldTrip
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 989 | 🐛 107 | 🌐 MATLAB | 📅 2026-10-01 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 989 | 🐛 108 | 🌐 MATLAB | 📅 2026-10-01 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 487 | 🐛 56 | 🌐 MATLAB | 📅 2026-09-15 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 487 | 🐛 57 | 🌐 MATLAB | 📅 2026-10-02 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-09-28
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-10-03
 
 ### Brain Connectivity Toolbox for Python
 
@@ -301,7 +301,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `TensorPAC` is a tool for calculating phase-amplitude coupling measures, using tensors and parallel computing.
 
 [Home Page](https://etiennecmb.github.io/tensorpac/) -
-[Github](https://github.com/EtienneCmb/tensorpac) ⭐ 121 | 🐛 8 | 🌐 Python | 📅 2024-07-30 -
+[Github](https://github.com/EtienneCmb/tensorpac) ⭐ 121 | 🐛 10 | 🌐 Python | 📅 2024-07-30 -
 [Paper](https://doi.org/10.1371/journal.pcbi.1008302)
 
 ### PACTools
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-10-01 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-10-02 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 7 | 🌐 Python | 📅 2026-10-02
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 5 | 🌐 Python | 📅 2026-10-02
 
 ### kCSD - kernel Current Source Density
 
@@ -594,7 +594,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 `ERPLab` is a tool for event-related potential (ERP) analysis of EEG data, with EEGLab.
 
 [Home Page](https://erpinfo.org/erplab) -
-[Github](https://github.com/lucklab/erplab) ⭐ 310 | 🐛 129 | 🌐 MATLAB | 📅 2026-09-11 -
+[Github](https://github.com/lucklab/erplab) ⭐ 310 | 🐛 130 | 🌐 MATLAB | 📅 2026-09-11 -
 [Paper](https://doi.org/10.3389/fnhum.2014.00213)
 
 ### LIMO - Linear Modeling
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
