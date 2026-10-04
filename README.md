@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 179 | 🌐 Python | 📅 2026-08-24
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 180 | 🌐 Python | 📅 2026-08-24
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -59,7 +59,7 @@ The following are general purpose platforms, with functionality including: loadi
 `Wonambi` is a general purpose tool for processing, analyzing, and visualizing EEG data, including specific tools focused on sleep scoring and analysis.
 
 [Home Page](https://wonambi-python.github.io) -
-[Github](https://github.com/wonambi-python/wonambi) ⭐ 101 | 🐛 14 | 🌐 Python | 📅 2026-04-29
+[Github](https://github.com/wonambi-python/wonambi) ⭐ 101 | 🐛 15 | 🌐 Python | 📅 2026-04-29
 
 ### NeuroKit2
 
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 487 | 🐛 57 | 🌐 MATLAB | 📅 2026-10-02 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 488 | 🐛 57 | 🌐 MATLAB | 📅 2026-10-02 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-10-02 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-10-03 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 5 | 🌐 Python | 📅 2026-10-02
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 6 | 🌐 Python | 📅 2026-10-02
 
 ### kCSD - kernel Current Source Density
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,442 | 🐛 280 | 🌐 Python | 📅 2026-10-02
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 281 | 🌐 Python | 📅 2026-10-02
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 125 | 🌐 JavaScript | 📅 2026-10-02
+[Github](https://github.com/gallantlab/pycortex) ⭐ 664 | 🐛 125 | 🌐 JavaScript | 📅 2026-10-04
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
