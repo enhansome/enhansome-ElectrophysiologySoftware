@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,536 | 🐛 610 | 🌐 Python | 📅 2026-10-02 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,536 | 🐛 612 | 🌐 Python | 📅 2026-10-05 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -311,7 +311,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `PACTools` is a package for calculating phase-amplitude coupling measures in neural time series.
 
 [Home Page](https://pactools.github.io) -
-[Github](https://github.com/pactools/pactools) ⭐ 109 | 🐛 16 | 🌐 Python | 📅 2026-03-26
+[Github](https://github.com/pactools/pactools) ⭐ 109 | 🐛 17 | 🌐 Python | 📅 2026-03-26
 
 ### PyEEG
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-10-03 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 0 | 🐛 0 | 📅 2026-10-05 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -552,7 +552,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `PrPREP` is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.
 
 [Homepage](https://pyprep.readthedocs.io/en/latest/) -
-[Github](https://github.com/sappelhoff/pyprep) ⭐ 184 | 🐛 15 | 🌐 Python | 📅 2026-08-21
+[Github](https://github.com/sappelhoff/pyprep) ⭐ 185 | 🐛 15 | 🌐 Python | 📅 2026-08-21
 
 ### PREP Pipeline
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 281 | 🌐 Python | 📅 2026-10-02
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 280 | 🌐 Python | 📅 2026-10-02
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
