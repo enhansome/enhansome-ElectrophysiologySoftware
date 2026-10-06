@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 180 | 🌐 Python | 📅 2026-08-24
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 178 | 🌐 Python | 📅 2026-10-05
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,377 | 🐛 21 | 🌐 Python | 📅 2026-10-01
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,380 | 🐛 21 | 🌐 Python | 📅 2026-10-01
 
 ### FieldTrip
 
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-10-03
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 3 | 🌐 Python | 📅 2026-10-06
 
 ### Brain Connectivity Toolbox for Python
 
@@ -319,7 +319,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
 `PyEEG` includes some implementations of information theoretic and complexity related measures for neural time series.
 
-[Github](https://github.com/forrestbao/pyeeg) ⭐ 263 | 🐛 13 | 🌐 Python | 📅 2024-01-18 -
+[Github](https://github.com/forrestbao/pyeeg) ⭐ 264 | 🐛 13 | 🌐 Python | 📅 2024-01-18 -
 [Paper](https://doi.org/10.1155/2011/406391)
 
 ### ECoGTools
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 6 | 🌐 Python | 📅 2026-10-02
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 588 | 🐛 7 | 🌐 Python | 📅 2026-10-06
 
 ### kCSD - kernel Current Source Density
 
@@ -507,7 +507,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 `OpenMEEG` is a package for solving forward problems for EEG & MEG data.
 
 [Home Page](https://openmeeg.github.io) -
-[Github](https://github.com/openmeeg/openmeeg) ⭐ 88 | 🐛 53 | 🌐 C++ | 📅 2026-10-01 -
+[Github](https://github.com/openmeeg/openmeeg) ⭐ 88 | 🐛 53 | 🌐 C++ | 📅 2026-10-06 -
 [Paper](https://doi.org/10.1186/1475-925X-9-45)
 
 ### fast Continuous Wavelet Transform
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 91 | 🌐 Python | 📅 2026-09-30 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 91 | 🌐 Python | 📅 2026-10-05 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -552,7 +552,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `PrPREP` is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.
 
 [Homepage](https://pyprep.readthedocs.io/en/latest/) -
-[Github](https://github.com/sappelhoff/pyprep) ⭐ 185 | 🐛 15 | 🌐 Python | 📅 2026-08-21
+[Github](https://github.com/sappelhoff/pyprep) ⭐ 185 | 🐛 15 | 🌐 Python | 📅 2026-10-05
 
 ### PREP Pipeline
 
@@ -604,8 +604,8 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `LIMO` is a tool for Linear Modeling of EEG data, with EEGLab.
 
-[Home Page](https://github.com/LIMO-EEG-Toolbox/limo_eeg/wiki) ⭐ 61 | 🐛 25 | 🌐 MATLAB | 📅 2026-09-14 -
-[Github](https://github.com/LIMO-EEG-Toolbox/limo_eeg) ⭐ 61 | 🐛 25 | 🌐 MATLAB | 📅 2026-09-14 -
+[Home Page](https://github.com/LIMO-EEG-Toolbox/limo_eeg/wiki) ⭐ 61 | 🐛 18 | 🌐 MATLAB | 📅 2026-10-05 -
+[Github](https://github.com/LIMO-EEG-Toolbox/limo_eeg) ⭐ 61 | 🐛 18 | 🌐 MATLAB | 📅 2026-10-05 -
 [Paper](https://doi.org/10.1155/2011/831409)
 
 ### SIFT - Source Information Flow Toolbox
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 795 | 🐛 163 | 🌐 Python | 📅 2026-10-01
+[Github](https://github.com/nipy/nibabel) ⭐ 795 | 🐛 162 | 🌐 Python | 📅 2026-10-06
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 280 | 🌐 Python | 📅 2026-10-02
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 280 | 🌐 Python | 📅 2026-10-06
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
