@@ -949,7 +949,7 @@
                 "id": 977524685,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T10:18:23Z",
+                "last_commit": "2026-10-06T10:35:20Z",
                 "open_issues": 0,
                 "owner": "christianbrodbeck",
                 "repo": "Eelbrain",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:15:30.533Z",
+    "last_updated": "2026-10-06T11:22:28.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of openly available software tools for (mostly human) electrophysiology. ",
