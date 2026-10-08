@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,536 | 🐛 609 | 🌐 Python | 📅 2026-10-06 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,537 | 🐛 613 | 🌐 Python | 📅 2026-10-08 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 181 | 🌐 Python | 📅 2026-10-05
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 176 | 🌐 Python | 📅 2026-10-08
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,382 | 🐛 21 | 🌐 Python | 📅 2026-10-01
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,385 | 🐛 23 | 🌐 Python | 📅 2026-10-01
 
 ### FieldTrip
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 989 | 🐛 106 | 🌐 MATLAB | 📅 2026-10-07 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 990 | 🐛 106 | 🌐 MATLAB | 📅 2026-10-07 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -201,7 +201,7 @@ The following are standalone tools, independent of general software platforms, f
 `NeuroDSP` is a package for calculating a broad range of measures on neural time series, including a range of time-domain measures such as waveform shape analyses.
 
 [Homepage](https://neurodsp-tools.github.io/) -
-[Github](https://github.com/neurodsp-tools/neurodsp) ⭐ 357 | 🐛 18 | 🌐 Python | 📅 2026-09-16 -
+[Github](https://github.com/neurodsp-tools/neurodsp) ⭐ 357 | 🐛 19 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.21105/joss.01272)
 
 ### SpecParam (formerly 'fooof')
@@ -221,7 +221,7 @@ The following are standalone tools, independent of general software platforms, f
 `ByCycle` is a tool for cycle-by-cycle analyses of neural oscillations.
 
 [Homepage](https://bycycle-tools.github.io/) -
-[Github](https://github.com/bycycle-tools/bycycle) ⭐ 102 | 🐛 9 | 🌐 Python | 📅 2026-09-16 -
+[Github](https://github.com/bycycle-tools/bycycle) ⭐ 101 | 🐛 9 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1152/jn.00273.2019)
 
 ### pynapple
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 588 | 🐛 7 | 🌐 Python | 📅 2026-10-06
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 7 | 🌐 Python | 📅 2026-10-06
 
 ### kCSD - kernel Current Source Density
 
@@ -479,7 +479,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 `SynchroSqueezing` is a tool for time-frequency and time-scale analyses.
 
-[Github](https://github.com/ebrevdo/synchrosqueezing) ⭐ 86 | 🐛 2 | 🌐 MATLAB | 📅 2019-08-28
+[Github](https://github.com/ebrevdo/synchrosqueezing) ⭐ 85 | 🐛 2 | 🌐 MATLAB | 📅 2019-08-28
 
 ### AutoMagic
 
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 94 | 🌐 Python | 📅 2026-10-05 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 96 | 🌐 Python | 📅 2026-10-08 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -604,8 +604,8 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `LIMO` is a tool for Linear Modeling of EEG data, with EEGLab.
 
-[Home Page](https://github.com/LIMO-EEG-Toolbox/limo_eeg/wiki) ⭐ 61 | 🐛 18 | 🌐 MATLAB | 📅 2026-10-05 -
-[Github](https://github.com/LIMO-EEG-Toolbox/limo_eeg) ⭐ 61 | 🐛 18 | 🌐 MATLAB | 📅 2026-10-05 -
+[Home Page](https://github.com/LIMO-EEG-Toolbox/limo_eeg/wiki) ⭐ 61 | 🐛 19 | 🌐 MATLAB | 📅 2026-10-07 -
+[Github](https://github.com/LIMO-EEG-Toolbox/limo_eeg) ⭐ 61 | 🐛 19 | 🌐 MATLAB | 📅 2026-10-07 -
 [Paper](https://doi.org/10.1155/2011/831409)
 
 ### SIFT - Source Information Flow Toolbox
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 795 | 🐛 162 | 🌐 Python | 📅 2026-10-06
+[Github](https://github.com/nipy/nibabel) ⭐ 795 | 🐛 160 | 🌐 Python | 📅 2026-10-08
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 278 | 🌐 Python | 📅 2026-10-07
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 280 | 🌐 Python | 📅 2026-10-07
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
