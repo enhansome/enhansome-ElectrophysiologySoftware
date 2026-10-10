@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,539 | 🐛 614 | 🌐 Python | 📅 2026-10-08 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,540 | 🐛 611 | 🌐 Python | 📅 2026-10-10 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 175 | 🌐 Python | 📅 2026-10-08
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 174 | 🌐 Python | 📅 2026-10-09
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,386 | 🐛 24 | 🌐 Python | 📅 2026-10-01
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,391 | 🐛 24 | 🌐 Python | 📅 2026-10-01
 
 ### FieldTrip
 
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 488 | 🐛 55 | 🌐 MATLAB | 📅 2026-10-08 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 488 | 🐛 56 | 🌐 MATLAB | 📅 2026-10-08 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -257,7 +257,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Antropy` is a package for computing entropy and complexity measures on EEG data.
 
 [Homepage](https://raphaelvallat.com/antropy/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/antropy) ⭐ 378 | 🐛 0 | 🌐 Python | 📅 2026-04-01
+[Github](https://github.com/raphaelvallat/antropy) ⭐ 379 | 🐛 0 | 🌐 Python | 📅 2026-04-01
 
 ### PTSA - Python Time Series Analysis
 
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 794 | 🐛 161 | 🌐 Python | 📅 2026-10-08
+[Github](https://github.com/nipy/nibabel) ⭐ 794 | 🐛 162 | 🌐 Python | 📅 2026-10-08
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 284 | 🌐 Python | 📅 2026-10-07
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 285 | 🌐 Python | 📅 2026-10-07
 
 ### Visbrain
 
@@ -683,9 +683,9 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `neuromaps` is a tool for comparing between brain maps.
 
 [Home Page](https://netneurolab.github.io/neuromaps/) -
-[Github](https://github.com/netneurolab/neuromaps) ⭐ 347 | 🐛 36 | 🌐 Python | 📅 2026-06-13 -
+[Github](https://github.com/netneurolab/neuromaps) ⭐ 348 | 🐛 36 | 🌐 Python | 📅 2026-06-13 -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
