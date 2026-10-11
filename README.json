@@ -17,11 +17,11 @@
                 "id": 1301584,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-10T01:06:34Z",
-                "open_issues": 611,
+                "last_commit": "2026-10-10T13:45:19Z",
+                "open_issues": 610,
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3540,
+                "stars": 3542,
                 "topics": [
                   "ecog",
                   "eeg",
@@ -152,10 +152,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-01T12:14:20Z",
-                "open_issues": 24,
+                "open_issues": 26,
                 "owner": "neuropsychology",
                 "repo": "NeuroKit",
-                "stars": 2391,
+                "stars": 2392,
                 "topics": [
                   "biosignals",
                   "cardiac",
@@ -644,7 +644,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-04-01T21:31:15Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "raphaelvallat",
                 "repo": "antropy",
                 "stars": 379,
@@ -953,7 +953,7 @@
                 "open_issues": 0,
                 "owner": "christianbrodbeck",
                 "repo": "Eelbrain",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
@@ -1525,8 +1525,8 @@
                 "id": 89170358,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-08T10:28:45Z",
-                "open_issues": 91,
+                "last_commit": "2026-10-10T13:39:15Z",
+                "open_issues": 90,
                 "owner": "mne-tools",
                 "repo": "mne-bids",
                 "stars": 182,
@@ -1781,7 +1781,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-07T06:08:01Z",
-                "open_issues": 285,
+                "open_issues": 284,
                 "owner": "nilearn",
                 "repo": "nilearn",
                 "stars": 1443,
@@ -1864,7 +1864,7 @@
                 "open_issues": 128,
                 "owner": "gallantlab",
                 "repo": "pycortex",
-                "stars": 664,
+                "stars": 665,
                 "topics": [
                   "fmri",
                   "neuroimaging",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:41:34.196Z",
+    "last_updated": "2026-10-11T10:54:24.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of openly available software tools for (mostly human) electrophysiology. ",
