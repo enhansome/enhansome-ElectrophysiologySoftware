@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,542 | 🐛 610 | 🌐 Python | 📅 2026-10-10 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,543 | 🐛 603 | 🌐 Python | 📅 2026-10-12 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,12 +44,12 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 174 | 🌐 Python | 📅 2026-10-09
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 175 | 🌐 Python | 📅 2026-10-11
 
 `elephant` is a tool for analyzing electrophysiological data.
 
 [Home Page](https://neuralensemble.org/elephant/) -
-[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 244 | 🐛 51 | 🌐 Python | 📅 2026-06-21
+[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 244 | 🐛 52 | 🌐 Python | 📅 2026-06-21
 
 ### Wonambi
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,392 | 🐛 26 | 🌐 Python | 📅 2026-10-01
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,393 | 🐛 26 | 🌐 Python | 📅 2026-10-01
 
 ### FieldTrip
 
@@ -516,7 +516,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 
 `fCWT` is a package for fast calculations of Continuous Wavelet Transforms.
 
-[Github](https://github.com/fastlib/fCWT) ⭐ 402 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 -
+[Github](https://github.com/fastlib/fCWT) ⭐ 403 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 -
 [Paper](https://doi.org/10.1038/s43588-021-00183-z)
 
 ## Plugins
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 90 | 🌐 Python | 📅 2026-10-10 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 182 | 🐛 90 | 🌐 Python | 📅 2026-10-12 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 794 | 🐛 162 | 🌐 Python | 📅 2026-10-08
+[Github](https://github.com/nipy/nibabel) ⭐ 795 | 🐛 163 | 🌐 Python | 📅 2026-10-08
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 284 | 🌐 Python | 📅 2026-10-07
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,443 | 🐛 285 | 🌐 Python | 📅 2026-10-07
 
 ### Visbrain
 
@@ -655,7 +655,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `Visbrain` is a tool for brain data visualization.
 
 [Homepage](http://visbrain.org/) -
-[Github](https://github.com/EtienneCmb/visbrain) ⭐ 259 | 🐛 54 | 🌐 Python | 📅 2024-07-11
+[Github](https://github.com/EtienneCmb/visbrain) ⭐ 260 | 🐛 54 | 🌐 Python | 📅 2024-07-11
 
 ### PyCortex
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
