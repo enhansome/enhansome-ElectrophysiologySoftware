@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,553 | 🐛 614 | 🌐 Python | 📅 2026-10-15 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,555 | 🐛 617 | 🌐 Python | 📅 2026-10-15 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 172 | 🌐 Python | 📅 2026-10-16
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 174 | 🌐 Python | 📅 2026-10-16
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -257,7 +257,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Antropy` is a package for computing entropy and complexity measures on EEG data.
 
 [Homepage](https://raphaelvallat.com/antropy/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/antropy) ⭐ 379 | 🐛 2 | 🌐 Python | 📅 2026-04-01
+[Github](https://github.com/raphaelvallat/antropy) ⭐ 379 | 🐛 2 | 🌐 Python | 📅 2026-10-17
 
 ### PTSA - Python Time Series Analysis
 
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 9 | 🌐 Python | 📅 2026-10-13
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 8 | 🌐 Python | 📅 2026-10-17
 
 ### kCSD - kernel Current Source Density
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 665 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-17
+[Github](https://github.com/gallantlab/pycortex) ⭐ 665 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-18
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
