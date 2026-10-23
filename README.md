@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,559 | 🐛 619 | 🌐 Python | 📅 2026-10-22 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,560 | 🐛 615 | 🌐 Python | 📅 2026-10-23 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 363 | 🐛 179 | 🌐 Python | 📅 2026-10-18
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 364 | 🐛 181 | 🌐 Python | 📅 2026-10-18
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 992 | 🐛 112 | 🌐 MATLAB | 📅 2026-10-13 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 992 | 🐛 112 | 🌐 MATLAB | 📅 2026-10-22 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 491 | 🐛 57 | 🌐 MATLAB | 📅 2026-10-21 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 491 | 🐛 57 | 🌐 MATLAB | 📅 2026-10-22 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -211,7 +211,7 @@ The following are standalone tools, independent of general software platforms, f
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
 [Homepage](https://fooof-tools.github.io/) -
-[Github](https://github.com/fooof-tools/fooof) ⭐ 450 | 🐛 27 | 🌐 Python | 📅 2026-09-16 -
+[Github](https://github.com/fooof-tools/fooof) ⭐ 451 | 🐛 27 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### ByCycle
@@ -531,7 +531,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `AutoReject` is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.
 
 [Home Page](https://autoreject.github.io) -
-[Github](https://github.com/autoreject/autoreject) ⭐ 162 | 🐛 41 | 🌐 Python | 📅 2026-10-09 -
+[Github](https://github.com/autoreject/autoreject) ⭐ 162 | 🐛 40 | 🌐 Python | 📅 2026-10-09 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2017.06.030)
 
 ### MNE-BIDS
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 92 | 🌐 Python | 📅 2026-10-21 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 90 | 🌐 Python | 📅 2026-10-22 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -594,7 +594,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 `ERPLab` is a tool for event-related potential (ERP) analysis of EEG data, with EEGLab.
 
 [Home Page](https://erpinfo.org/erplab) -
-[Github](https://github.com/lucklab/erplab) ⭐ 311 | 🐛 131 | 🌐 MATLAB | 📅 2026-09-11 -
+[Github](https://github.com/lucklab/erplab) ⭐ 312 | 🐛 131 | 🌐 MATLAB | 📅 2026-09-11 -
 [Paper](https://doi.org/10.3389/fnhum.2014.00213)
 
 ### LIMO - Linear Modeling
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 797 | 🐛 162 | 🌐 Python | 📅 2026-10-21
+[Github](https://github.com/nipy/nibabel) ⭐ 797 | 🐛 166 | 🌐 Python | 📅 2026-10-21
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,449 | 🐛 277 | 🌐 Python | 📅 2026-10-22
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,449 | 🐛 279 | 🌐 Python | 📅 2026-10-22
 
 ### Visbrain
 
@@ -673,7 +673,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `BrainSpace` is a tool for analyzing gradients in neuroimaging datasets.
 
 [Home Page](https://brainspace.readthedocs.io/en/latest/) -
-[Github](https://github.com/MICA-MNI/BrainSpace) ⭐ 254 | 🐛 6 | 🌐 Python | 📅 2026-06-09 -
+[Github](https://github.com/MICA-MNI/BrainSpace) ⭐ 254 | 🐛 0 | 🌐 Python | 📅 2026-10-22 -
 [Paper](https://doi.org/10.1038/s42003-020-0794-7)
 
 ### neuromaps
@@ -683,9 +683,9 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `neuromaps` is a tool for comparing between brain maps.
 
 [Home Page](https://netneurolab.github.io/neuromaps/) -
-[Github](https://github.com/netneurolab/neuromaps) ⭐ 351 | 🐛 38 | 🌐 Python | 📅 2026-10-21 -
+[Github](https://github.com/netneurolab/neuromaps) ⭐ 351 | 🐛 39 | 🌐 Python | 📅 2026-10-22 -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
