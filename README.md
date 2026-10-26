@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,564 | 🐛 613 | 🌐 Python | 📅 2026-10-25 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,566 | 🐛 613 | 🌐 Python | 📅 2026-10-26 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,402 | 🐛 32 | 🌐 Python | 📅 2026-10-01
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,404 | 🐛 32 | 🌐 Python | 📅 2026-10-01
 
 ### FieldTrip
 
@@ -201,7 +201,7 @@ The following are standalone tools, independent of general software platforms, f
 `NeuroDSP` is a package for calculating a broad range of measures on neural time series, including a range of time-domain measures such as waveform shape analyses.
 
 [Homepage](https://neurodsp-tools.github.io/) -
-[Github](https://github.com/neurodsp-tools/neurodsp) ⭐ 357 | 🐛 21 | 🌐 Python | 📅 2026-09-16 -
+[Github](https://github.com/neurodsp-tools/neurodsp) ⭐ 358 | 🐛 21 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.21105/joss.01272)
 
 ### SpecParam (formerly 'fooof')
@@ -211,7 +211,7 @@ The following are standalone tools, independent of general software platforms, f
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
 [Homepage](https://fooof-tools.github.io/) -
-[Github](https://github.com/fooof-tools/fooof) ⭐ 451 | 🐛 27 | 🌐 Python | 📅 2026-09-16 -
+[Github](https://github.com/fooof-tools/fooof) ⭐ 452 | 🐛 27 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### ByCycle
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-10-24 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-10-26 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -347,7 +347,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `YASA` is a package for analyzing polysomnograghy recordings.
 
 [Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/yasa) ⭐ 589 | 🐛 5 | 🌐 Python | 📅 2026-10-25
+[Github](https://github.com/raphaelvallat/yasa) ⭐ 590 | 🐛 5 | 🌐 Python | 📅 2026-10-25
 
 ### kCSD - kernel Current Source Density
 
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 90 | 🌐 Python | 📅 2026-10-22 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 90 | 🌐 Python | 📅 2026-10-26 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 797 | 🐛 171 | 🌐 Python | 📅 2026-10-23
+[Github](https://github.com/nipy/nibabel) ⭐ 798 | 🐛 172 | 🌐 Python | 📅 2026-10-23
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,450 | 🐛 278 | 🌐 Python | 📅 2026-10-23
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,452 | 🐛 278 | 🌐 Python | 📅 2026-10-26
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
