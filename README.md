@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,582 | 🐛 616 | 🌐 Python | 📅 2026-11-02 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,583 | 🐛 617 | 🌐 Python | 📅 2026-11-03 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,12 +44,12 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 188 | 🌐 Python | 📅 2026-11-03
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 189 | 🌐 Python | 📅 2026-11-03
 
 `elephant` is a tool for analyzing electrophysiological data.
 
 [Home Page](https://neuralensemble.org/elephant/) -
-[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 244 | 🐛 54 | 🌐 Python | 📅 2026-11-03
+[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 244 | 🐛 53 | 🌐 Python | 📅 2026-11-03
 
 ### Wonambi
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,413 | 🐛 10 | 🌐 Python | 📅 2026-11-02
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,416 | 🐛 16 | 🌐 Python | 📅 2026-11-04
 
 ### FieldTrip
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-02 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-04 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -531,7 +531,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `AutoReject` is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.
 
 [Home Page](https://autoreject.github.io) -
-[Github](https://github.com/autoreject/autoreject) ⭐ 163 | 🐛 40 | 🌐 Python | 📅 2026-10-29 -
+[Github](https://github.com/autoreject/autoreject) ⭐ 163 | 🐛 40 | 🌐 Python | 📅 2026-11-03 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2017.06.030)
 
 ### MNE-BIDS
@@ -562,7 +562,7 @@ The following are plugins, designed primary for use with one of the aforemention
 The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EEGLab.
 
 [Home Page](https://vislab.github.io/EEG-Clean-Tools/) -
-[Github](https://github.com/VisLab/EEG-Clean-Tools) ⭐ 98 | 🐛 9 | 🌐 MATLAB | 📅 2026-09-28 -
+[Github](https://github.com/VisLab/EEG-Clean-Tools) ⭐ 98 | 🐛 9 | 🌐 MATLAB | 📅 2026-11-03 -
 [Paper](https://doi.org/10.3389/fninf.2015.00016)
 
 ### RELAX
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,452 | 🐛 279 | 🌐 Python | 📅 2026-11-03
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,452 | 🐛 277 | 🌐 Python | 📅 2026-11-04
 
 ### Visbrain
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 666 | 🐛 141 | 🌐 JavaScript | 📅 2026-11-02
+[Github](https://github.com/gallantlab/pycortex) ⭐ 666 | 🐛 141 | 🌐 JavaScript | 📅 2026-11-03
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
