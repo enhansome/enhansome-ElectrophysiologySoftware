@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,583 | 🐛 617 | 🌐 Python | 📅 2026-11-03 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,584 | 🐛 618 | 🌐 Python | 📅 2026-11-05 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 189 | 🌐 Python | 📅 2026-11-03
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 190 | 🌐 Python | 📅 2026-11-03
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -59,7 +59,7 @@ The following are general purpose platforms, with functionality including: loadi
 `Wonambi` is a general purpose tool for processing, analyzing, and visualizing EEG data, including specific tools focused on sleep scoring and analysis.
 
 [Home Page](https://wonambi-python.github.io) -
-[Github](https://github.com/wonambi-python/wonambi) ⭐ 102 | 🐛 15 | 🌐 Python | 📅 2026-04-29
+[Github](https://github.com/wonambi-python/wonambi) ⭐ 102 | 🐛 15 | 🌐 Python | 📅 2026-11-04
 
 ### NeuroKit2
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,416 | 🐛 16 | 🌐 Python | 📅 2026-11-04
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,416 | 🐛 19 | 🌐 Python | 📅 2026-11-04
 
 ### FieldTrip
 
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 492 | 🐛 57 | 🌐 MATLAB | 📅 2026-10-30 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 492 | 🐛 54 | 🌐 MATLAB | 📅 2026-11-04 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -257,7 +257,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Antropy` is a package for computing entropy and complexity measures on EEG data.
 
 [Homepage](https://raphaelvallat.com/antropy/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/antropy) ⭐ 381 | 🐛 6 | 🌐 Python | 📅 2026-10-24
+[Github](https://github.com/raphaelvallat/antropy) ⭐ 382 | 🐛 6 | 🌐 Python | 📅 2026-10-24
 
 ### PTSA - Python Time Series Analysis
 
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-11-01
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-11-04
 
 ### Brain Connectivity Toolbox for Python
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-04 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-05 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -531,7 +531,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `AutoReject` is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.
 
 [Home Page](https://autoreject.github.io) -
-[Github](https://github.com/autoreject/autoreject) ⭐ 163 | 🐛 40 | 🌐 Python | 📅 2026-11-03 -
+[Github](https://github.com/autoreject/autoreject) ⭐ 163 | 🐛 37 | 🌐 Python | 📅 2026-11-04 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2017.06.030)
 
 ### MNE-BIDS
@@ -562,7 +562,7 @@ The following are plugins, designed primary for use with one of the aforemention
 The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EEGLab.
 
 [Home Page](https://vislab.github.io/EEG-Clean-Tools/) -
-[Github](https://github.com/VisLab/EEG-Clean-Tools) ⭐ 98 | 🐛 9 | 🌐 MATLAB | 📅 2026-11-03 -
+[Github](https://github.com/VisLab/EEG-Clean-Tools) ⭐ 98 | 🐛 9 | 🌐 MATLAB | 📅 2026-11-04 -
 [Paper](https://doi.org/10.3389/fninf.2015.00016)
 
 ### RELAX
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 799 | 🐛 177 | 🌐 Python | 📅 2026-11-02
+[Github](https://github.com/nipy/nibabel) ⭐ 800 | 🐛 177 | 🌐 Python | 📅 2026-11-02
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,452 | 🐛 277 | 🌐 Python | 📅 2026-11-04
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,452 | 🐛 278 | 🌐 Python | 📅 2026-11-04
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
