@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,585 | 🐛 615 | 🌐 Python | 📅 2026-11-05 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,585 | 🐛 615 | 🌐 Python | 📅 2026-11-06 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 192 | 🌐 Python | 📅 2026-11-03
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 191 | 🌐 Python | 📅 2026-11-06
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,416 | 🐛 20 | 🌐 Python | 📅 2026-11-04
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,421 | 🐛 20 | 🌐 Python | 📅 2026-11-04
 
 ### FieldTrip
 
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 802 | 🐛 178 | 🌐 Python | 📅 2026-11-02
+[Github](https://github.com/nipy/nibabel) ⭐ 803 | 🐛 177 | 🌐 Python | 📅 2026-11-06
 
 ### nilearn
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
