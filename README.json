@@ -58,8 +58,8 @@
                 "id": 3949530,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T18:39:09Z",
-                "open_issues": 191,
+                "last_commit": "2026-11-07T19:25:36Z",
+                "open_issues": 192,
                 "owner": "NeuralEnsemble",
                 "repo": "python-neo",
                 "stars": 365,
@@ -83,7 +83,7 @@
                 "open_issues": 53,
                 "owner": "NeuralEnsemble",
                 "repo": "elephant",
-                "stars": 244,
+                "stars": 245,
                 "topics": [
                   "data-analysis",
                   "electrophysiology",
@@ -151,8 +151,8 @@
                 "id": 218212111,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T19:12:45Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-08T00:36:09Z",
+                "open_issues": 13,
                 "owner": "neuropsychology",
                 "repo": "NeuroKit",
                 "stars": 2421,
@@ -312,7 +312,7 @@
                 "open_issues": 26,
                 "owner": "bbci",
                 "repo": "bbci_public",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
@@ -949,7 +949,7 @@
                 "id": 977524685,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T21:16:21Z",
+                "last_commit": "2026-11-07T19:39:45Z",
                 "open_issues": 0,
                 "owner": "christianbrodbeck",
                 "repo": "Eelbrain",
@@ -1737,11 +1737,11 @@
                 "id": 791352,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T23:13:19Z",
-                "open_issues": 177,
+                "last_commit": "2026-11-08T04:05:41Z",
+                "open_issues": 164,
                 "owner": "nipy",
                 "repo": "nibabel",
-                "stars": 803,
+                "stars": 808,
                 "topics": [
                   "afni-brik-head",
                   "brain-imaging",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:11:20.347Z",
+    "last_updated": "2026-11-08T11:23:30.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of openly available software tools for (mostly human) electrophysiology. ",

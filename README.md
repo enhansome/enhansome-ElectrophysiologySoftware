@@ -44,12 +44,12 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 191 | 🌐 Python | 📅 2026-11-06
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 192 | 🌐 Python | 📅 2026-11-07
 
 `elephant` is a tool for analyzing electrophysiological data.
 
 [Home Page](https://neuralensemble.org/elephant/) -
-[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 244 | 🐛 53 | 🌐 Python | 📅 2026-11-03
+[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 245 | 🐛 53 | 🌐 Python | 📅 2026-11-03
 
 ### Wonambi
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,421 | 🐛 20 | 🌐 Python | 📅 2026-11-04
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,421 | 🐛 13 | 🌐 Python | 📅 2026-11-08
 
 ### FieldTrip
 
@@ -136,7 +136,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 The `BBCI` tool is collection of tools for online and offline analyses for brain-computer interface experiments.
 
-[Github](https://github.com/bbci/bbci_public) ⭐ 170 | 🐛 26 | 🌐 MATLAB | 📅 2020-04-07 -
+[Github](https://github.com/bbci/bbci_public) ⭐ 171 | 🐛 26 | 🌐 MATLAB | 📅 2020-04-07 -
 [Paper](https://doi.org/10.3389/fnins.2016.00530)
 
 ### EEGUtils
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-06 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-07 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 803 | 🐛 177 | 🌐 Python | 📅 2026-11-06
+[Github](https://github.com/nipy/nibabel) ⭐ 808 | 🐛 164 | 🌐 Python | 📅 2026-11-08
 
 ### nilearn
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
