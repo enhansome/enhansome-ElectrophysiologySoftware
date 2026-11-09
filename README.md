@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,585 | 🐛 615 | 🌐 Python | 📅 2026-11-06 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,585 | 🐛 619 | 🌐 Python | 📅 2026-11-09 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 192 | 🌐 Python | 📅 2026-11-07
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 365 | 🐛 192 | 🌐 Python | 📅 2026-11-09
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,421 | 🐛 13 | 🌐 Python | 📅 2026-11-08
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,422 | 🐛 14 | 🌐 Python | 📅 2026-11-08
 
 ### FieldTrip
 
@@ -257,7 +257,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Antropy` is a package for computing entropy and complexity measures on EEG data.
 
 [Homepage](https://raphaelvallat.com/antropy/build/html/index.html) -
-[Github](https://github.com/raphaelvallat/antropy) ⭐ 382 | 🐛 6 | 🌐 Python | 📅 2026-10-24
+[Github](https://github.com/raphaelvallat/antropy) ⭐ 384 | 🐛 6 | 🌐 Python | 📅 2026-10-24
 
 ### PTSA - Python Time Series Analysis
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-07 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-08 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -531,7 +531,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `AutoReject` is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.
 
 [Home Page](https://autoreject.github.io) -
-[Github](https://github.com/autoreject/autoreject) ⭐ 163 | 🐛 37 | 🌐 Python | 📅 2026-11-04 -
+[Github](https://github.com/autoreject/autoreject) ⭐ 163 | 🐛 38 | 🌐 Python | 📅 2026-11-04 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2017.06.030)
 
 ### MNE-BIDS
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 808 | 🐛 164 | 🌐 Python | 📅 2026-11-08
+[Github](https://github.com/nipy/nibabel) ⭐ 808 | 🐛 153 | 🌐 Python | 📅 2026-11-09
 
 ### nilearn
 
@@ -664,7 +664,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `PyCortex` is a tool for visualizing cortical surfaces.
 
 [Homepage](https://gallantlab.github.io/pycortex/) -
-[Github](https://github.com/gallantlab/pycortex) ⭐ 666 | 🐛 141 | 🌐 JavaScript | 📅 2026-11-03
+[Github](https://github.com/gallantlab/pycortex) ⭐ 666 | 🐛 140 | 🌐 JavaScript | 📅 2026-11-03
 
 ### BrainSpace
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
