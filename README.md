@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,590 | 🐛 623 | 🌐 Python | 📅 2026-11-12 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,591 | 🐛 624 | 🌐 Python | 📅 2026-11-12 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -49,7 +49,7 @@ The following are general purpose platforms, with functionality including: loadi
 `elephant` is a tool for analyzing electrophysiological data.
 
 [Home Page](https://neuralensemble.org/elephant/) -
-[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 247 | 🐛 51 | 🌐 Python | 📅 2026-11-11
+[Github](https://github.com/NeuralEnsemble/elephant) ⭐ 248 | 🐛 51 | 🌐 Python | 📅 2026-11-11
 
 ### Wonambi
 
@@ -78,7 +78,7 @@ The following are general purpose platforms, with functionality including: loadi
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
 [Home Page](http://www.fieldtriptoolbox.org) -
-[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 993 | 🐛 110 | 🌐 MATLAB | 📅 2026-11-11 -
+[Github](https://github.com/fieldtrip/fieldtrip) ⭐ 993 | 🐛 108 | 🌐 MATLAB | 📅 2026-11-13 -
 [Paper](https://doi.org/10.1155/2011/156869)
 
 ### BrainStorm
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 493 | 🐛 55 | 🌐 MATLAB | 📅 2026-11-11 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 494 | 🐛 57 | 🌐 MATLAB | 📅 2026-11-11 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -155,7 +155,7 @@ The `BBCI` tool is collection of tools for online and offline analyses for brain
 `EEGuana` is a package for working with EEG data.
 
 [Home Page](https://craddm.github.io/eegUtils/) -
-[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 28 | 🐛 36 | 🌐 R | 📅 2026-09-28
+[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 28 | 🐛 36 | 🌐 R | 📅 2026-11-13
 
 ### RAVE
 
@@ -201,7 +201,7 @@ The following are standalone tools, independent of general software platforms, f
 `NeuroDSP` is a package for calculating a broad range of measures on neural time series, including a range of time-domain measures such as waveform shape analyses.
 
 [Homepage](https://neurodsp-tools.github.io/) -
-[Github](https://github.com/neurodsp-tools/neurodsp) ⭐ 359 | 🐛 21 | 🌐 Python | 📅 2026-09-16 -
+[Github](https://github.com/neurodsp-tools/neurodsp) ⭐ 360 | 🐛 21 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.21105/joss.01272)
 
 ### SpecParam (formerly 'fooof')
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-11-04
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 138 | 🐛 4 | 🌐 Python | 📅 2026-11-04
 
 ### Brain Connectivity Toolbox for Python
 
@@ -311,7 +311,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `PACTools` is a package for calculating phase-amplitude coupling measures in neural time series.
 
 [Home Page](https://pactools.github.io) -
-[Github](https://github.com/pactools/pactools) ⭐ 109 | 🐛 17 | 🌐 Python | 📅 2026-03-26
+[Github](https://github.com/pactools/pactools) ⭐ 109 | 🐛 18 | 🌐 Python | 📅 2026-03-26
 
 ### PyEEG
 
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 95 | 🌐 Python | 📅 2026-11-11 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 93 | 🌐 Python | 📅 2026-11-13 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 810 | 🐛 155 | 🌐 Python | 📅 2026-11-12
+[Github](https://github.com/nipy/nibabel) ⭐ 810 | 🐛 159 | 🌐 Python | 📅 2026-11-13
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,456 | 🐛 280 | 🌐 Python | 📅 2026-11-12
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,456 | 🐛 285 | 🌐 Python | 📅 2026-11-12
 
 ### Visbrain
 
@@ -683,9 +683,9 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `neuromaps` is a tool for comparing between brain maps.
 
 [Home Page](https://netneurolab.github.io/neuromaps/) -
-[Github](https://github.com/netneurolab/neuromaps) ⭐ 354 | 🐛 39 | 🌐 Python | 📅 2026-10-22 -
+[Github](https://github.com/netneurolab/neuromaps) ⭐ 355 | 🐛 37 | 🌐 Python | 📅 2026-11-12 -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
