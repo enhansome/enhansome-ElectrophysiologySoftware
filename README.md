@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,593 | 🐛 625 | 🌐 Python | 📅 2026-11-12 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,594 | 🐛 629 | 🌐 Python | 📅 2026-11-16 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -155,7 +155,7 @@ The `BBCI` tool is collection of tools for online and offline analyses for brain
 `EEGuana` is a package for working with EEG data.
 
 [Home Page](https://craddm.github.io/eegUtils/) -
-[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 28 | 🐛 36 | 🌐 HTML | 📅 2026-11-14
+[Github](https://github.com/bnicenboim/eeguana/tree/master/R) ⭐ 28 | 🐛 37 | 🌐 HTML | 📅 2026-11-16
 
 ### RAVE
 
@@ -552,7 +552,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `PrPREP` is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.
 
 [Homepage](https://pyprep.readthedocs.io/en/latest/) -
-[Github](https://github.com/sappelhoff/pyprep) ⭐ 185 | 🐛 14 | 🌐 Python | 📅 2026-11-03
+[Github](https://github.com/sappelhoff/pyprep) ⭐ 184 | 🐛 14 | 🌐 Python | 📅 2026-11-03
 
 ### PREP Pipeline
 
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 810 | 🐛 161 | 🌐 Python | 📅 2026-11-13
+[Github](https://github.com/nipy/nibabel) ⭐ 810 | 🐛 167 | 🌐 Python | 📅 2026-11-13
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,456 | 🐛 288 | 🌐 Python | 📅 2026-11-14
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,456 | 🐛 284 | 🌐 Python | 📅 2026-11-16
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
