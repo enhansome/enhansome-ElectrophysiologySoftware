@@ -17,11 +17,11 @@
                 "id": 1301584,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T10:14:36Z",
-                "open_issues": 635,
+                "last_commit": "2026-11-17T22:38:16Z",
+                "open_issues": 634,
                 "owner": "mne-tools",
                 "repo": "mne-python",
-                "stars": 3595,
+                "stars": 3596,
                 "topics": [
                   "ecog",
                   "eeg",
@@ -59,10 +59,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-09T04:05:14Z",
-                "open_issues": 201,
+                "open_issues": 202,
                 "owner": "NeuralEnsemble",
                 "repo": "python-neo",
-                "stars": 368,
+                "stars": 369,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
@@ -152,10 +152,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-11T13:16:06Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "neuropsychology",
                 "repo": "NeuroKit",
-                "stars": 2430,
+                "stars": 2431,
                 "topics": [
                   "biosignals",
                   "cardiac",
@@ -200,7 +200,7 @@
                 "id": 7785050,
                 "language": "MATLAB",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T12:32:47Z",
+                "last_commit": "2026-11-17T22:45:53Z",
                 "open_issues": 106,
                 "owner": "fieldtrip",
                 "repo": "fieldtrip",
@@ -247,8 +247,8 @@
                 "id": 71512307,
                 "language": "MATLAB",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T18:53:29Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-17T20:28:43Z",
+                "open_issues": 57,
                 "owner": "brainstorm-tools",
                 "repo": "brainstorm3",
                 "stars": 494,
@@ -312,7 +312,7 @@
                 "open_issues": 26,
                 "owner": "bbci",
                 "repo": "bbci_public",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
@@ -479,7 +479,7 @@
                 "open_issues": 29,
                 "owner": "fooof-tools",
                 "repo": "fooof",
-                "stars": 455,
+                "stars": 454,
                 "topics": [
                   "aperiodic-exponent",
                   "eeg",
@@ -520,7 +520,7 @@
                 "open_issues": 9,
                 "owner": "bycycle-tools",
                 "repo": "bycycle",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
@@ -744,7 +744,7 @@
                 "open_issues": 4,
                 "owner": "Eden-Kramer-Lab",
                 "repo": "spectral_connectivity",
-                "stars": 138,
+                "stars": 137,
                 "topics": [
                   "brain-connectivity",
                   "canonical-coherence",
@@ -949,7 +949,7 @@
                 "id": 977524685,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T23:06:25Z",
+                "last_commit": "2026-11-18T10:15:07Z",
                 "open_issues": 0,
                 "owner": "christianbrodbeck",
                 "repo": "Eelbrain",
@@ -981,7 +981,7 @@
                 "open_issues": 5,
                 "owner": "raphaelvallat",
                 "repo": "yasa",
-                "stars": 601,
+                "stars": 602,
                 "topics": [
                   "artefact-rejection",
                   "deep-sleep",
@@ -1114,7 +1114,7 @@
                 "open_issues": 15,
                 "owner": "umair-hassan",
                 "repo": "best-toolbox",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:46:06.606Z"
@@ -1525,8 +1525,8 @@
                 "id": 89170358,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T21:36:03Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-17T22:15:17Z",
+                "open_issues": 101,
                 "owner": "mne-tools",
                 "repo": "mne-bids",
                 "stars": 183,
@@ -1666,7 +1666,7 @@
                 "open_issues": 131,
                 "owner": "ucdavis",
                 "repo": "erplab",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "cognitive-science",
                   "csd",
@@ -1780,11 +1780,11 @@
                 "id": 1235740,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-17T12:26:34Z",
+                "last_commit": "2026-11-18T10:52:12Z",
                 "open_issues": 295,
                 "owner": "nilearn",
                 "repo": "nilearn",
-                "stars": 1457,
+                "stars": 1458,
                 "topics": [
                   "brain-connectivity",
                   "brain-imaging",
@@ -1945,7 +1945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:39:10.687Z",
+    "last_updated": "2026-11-18T13:13:33.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of openly available software tools for (mostly human) electrophysiology. ",
