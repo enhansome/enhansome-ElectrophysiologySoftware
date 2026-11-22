@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,613 | 🐛 632 | 🌐 Python | 📅 2026-11-20 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,614 | 🐛 633 | 🌐 Python | 📅 2026-11-20 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,433 | 🐛 27 | 🌐 Python | 📅 2026-11-11
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,433 | 🐛 26 | 🌐 Python | 📅 2026-11-21
 
 ### FieldTrip
 
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-11-20
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2026-11-22
 
 ### Brain Connectivity Toolbox for Python
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-20 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-21 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -516,7 +516,7 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 
 `fCWT` is a package for fast calculations of Continuous Wavelet Transforms.
 
-[Github](https://github.com/fastlib/fCWT) ⭐ 404 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 -
+[Github](https://github.com/fastlib/fCWT) ⭐ 403 | 🐛 45 | 🌐 Jupyter Notebook | 📅 2025-01-06 -
 [Paper](https://doi.org/10.1038/s43588-021-00183-z)
 
 ## Plugins
@@ -542,7 +542,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
 [Home Page](https://mne.tools/mne-bids/) -
-[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 95 | 🌐 Python | 📅 2026-11-20 -
+[Github](https://github.com/mne-tools/mne-bids) ⭐ 183 | 🐛 96 | 🌐 Python | 📅 2026-11-20 -
 [Paper](https://doi.org/10.21105/joss.01896)
 
 ### PyPREP
@@ -552,7 +552,7 @@ The following are plugins, designed primary for use with one of the aforemention
 `PrPREP` is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.
 
 [Homepage](https://pyprep.readthedocs.io/en/latest/) -
-[Github](https://github.com/sappelhoff/pyprep) ⭐ 184 | 🐛 16 | 🌐 Python | 📅 2026-11-03
+[Github](https://github.com/sappelhoff/pyprep) ⭐ 184 | 🐛 14 | 🌐 Python | 📅 2026-11-21
 
 ### PREP Pipeline
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,460 | 🐛 295 | 🌐 Python | 📅 2026-11-20
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,461 | 🐛 295 | 🌐 Python | 📅 2026-11-20
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
