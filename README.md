@@ -32,7 +32,7 @@ The following are general purpose platforms, with functionality including: loadi
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
 [Home Page](https://martinos.org/mne/stable/index.html) -
-[Github](https://github.com/mne-tools/mne-python) ⭐ 3,618 | 🐛 634 | 🌐 Python | 📅 2026-11-25 -
+[Github](https://github.com/mne-tools/mne-python) ⭐ 3,619 | 🐛 637 | 🌐 Python | 📅 2026-11-25 -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
 ### Neural Ensemble Tools
@@ -44,7 +44,7 @@ The following are general purpose platforms, with functionality including: loadi
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
 [Home Page](https://neo.readthedocs.io/en/latest/) -
-[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 367 | 🐛 203 | 🌐 Python | 📅 2026-11-25
+[Github](https://github.com/NeuralEnsemble/python-neo) ⭐ 367 | 🐛 202 | 🌐 Python | 📅 2026-11-27
 
 `elephant` is a tool for analyzing electrophysiological data.
 
@@ -68,7 +68,7 @@ The following are general purpose platforms, with functionality including: loadi
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
 [Home Page](https://neuropsychology.github.io/NeuroKit/) -
-[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,438 | 🐛 28 | 🌐 Python | 📅 2026-11-24
+[Github](https://github.com/neuropsychology/NeuroKit) ⭐ 2,439 | 🐛 30 | 🌐 Python | 📅 2026-11-24
 
 ### FieldTrip
 
@@ -89,7 +89,7 @@ The following are general purpose platforms, with functionality including: loadi
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
 [Home Page](https://neuroimage.usc.edu/brainstorm/) -
-[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 495 | 🐛 58 | 🌐 MATLAB | 📅 2026-11-25 -
+[Github](https://github.com/brainstorm-tools/brainstorm3) ⭐ 495 | 🐛 56 | 🌐 MATLAB | 📅 2026-11-26 -
 [Paper](https://doi.org/10.1155/2011/879716)
 
 ### EEGLab
@@ -211,7 +211,7 @@ The following are standalone tools, independent of general software platforms, f
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
 [Homepage](https://fooof-tools.github.io/) -
-[Github](https://github.com/fooof-tools/fooof) ⭐ 455 | 🐛 29 | 🌐 Python | 📅 2026-09-16 -
+[Github](https://github.com/fooof-tools/fooof) ⭐ 456 | 🐛 29 | 🌐 Python | 📅 2026-09-16 -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
 ### ByCycle
@@ -284,7 +284,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
 [Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
-[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 9 | 🌐 Python | 📅 2026-11-26
+[Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity) ⭐ 137 | 🐛 10 | 🌐 Python | 📅 2026-11-26
 
 ### Brain Connectivity Toolbox for Python
 
@@ -337,7 +337,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
 [Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
-[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-26 -
+[Github](https://github.com/christianbrodbeck/Eelbrain) ⭐ 1 | 🐛 0 | 📅 2026-11-27 -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
 ### YASA - Yet another spindle algorithm
@@ -637,7 +637,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
 [Home Page](https://nipy.org/nibabel/) -
-[Github](https://github.com/nipy/nibabel) ⭐ 809 | 🐛 175 | 🌐 Python | 📅 2026-11-20
+[Github](https://github.com/nipy/nibabel) ⭐ 809 | 🐛 176 | 🌐 Python | 📅 2026-11-20
 
 ### nilearn
 
@@ -646,7 +646,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
 [Home Page](https://nilearn.github.io/) -
-[Github](https://github.com/nilearn/nilearn) ⭐ 1,461 | 🐛 291 | 🌐 Python | 📅 2026-11-25
+[Github](https://github.com/nilearn/nilearn) ⭐ 1,461 | 🐛 288 | 🌐 Python | 📅 2026-11-27
 
 ### Visbrain
 
@@ -688,4 +688,4 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
